@@ -1,0 +1,300 @@
+# Veps: Southern Veps
+aid	aed	N;NOM;SG
+aid	aed	N;ACC;SG
+aid	aedan	N;GEN;SG
+aid	aedan	N;BYWAY;SG
+aid	aedad	N;NOM;PL
+aid	aedad	N;PRT;SG
+aid	aedad	N;ACC;PL
+aid	aedaks	N;TRANS;SG
+aid	aedata	N;PRIV ;SG
+aid	aedas	N;IN+ESS;SG
+aid	aedaspää	N;IN+ABL;SG
+aid	aedaha	N;IN+ALL;SG
+aid	aedaa	N;AT+ESS;SG
+aid	aedaapää	N;AT+ABL;SG
+aid	aedale	N;AT+ALL;SG
+aid	aedamu	N;COM;SG
+aid	aedamu	N;PROL;SG
+aid	aedhasaa	N;TERM;SG
+aid	aedannoks	N;APPRX;SG
+aid	aedhapää	N;PRP;SG
+aid	aedannopää	N;ON/AT+ABL;SG
+aid	aedooden	N;GEN;PL
+aid	aedookš	N;TRANS;PL
+aid	aedoota	N;PRIV ;PL
+aid	aedooš	N;IN+ESS;PL
+aid	aedoošpää	N;IN+ABL;PL
+aid	aedoohe	N;IN+ALL;PL
+aid	aedoole	N;AT+ALL;PL
+aid	aedoomu	N;COM;PL
+aid	aedoomu	N;PROL;PL
+aid	aedoohesaa	N;TERM;PL
+aid	aedoodennoks	N;APPRX;PL
+aid	aedoodelonpää	N;ON/AT+ABL;PL
+aid	aedoohepää	N;PRP;PL
+aid	aedood’	N;PRT;PL
+aid	aedoon’	N;BYWAY;PL
+aid	aedool’	N;AT+ESS;PL
+aid	aedool’pää	N;AT+ABL;PL
+keza	keza	N;NOM;SG
+olda	eleškend	V;PST;IPFV;IND;NEG;3;SG
+pesta	pezi	V;PST;IPFV;IND;POS;3;SG
+pesta	peze	V;IMP;POS;2;SG
+pesta	peznu	V.PTCP;PST;ACT
+pesta	pestud	V.PTCP;PST;PASS
+pesta	pezeb	V;PRS;IND;POS;3;SG
+pesta	pezed	V;PRS;IND;POS;2;SG
+pesta	pesta	V;NFIN
+pesta	pezii	V.PTCP;PRS;ACT
+pesta	pezen	V;PRS;IND;POS;1;SG
+pesta	pezeba	V;PRS;IND;POS;3;PL
+pesta	en peze	V;PRS;IND;NEG;1;SG
+pesta	ed peze	V;PRS;IND;NEG;2;SG
+pesta	ei peze	V;PRS;IND;NEG;3;SG
+pesta	peskaha	V;IMP;POS;3;SG
+pesta	peskaha	V;IMP;POS;3;PL
+pesta	ala peze	V;IMP;NEG;2;SG
+pesta	peziži	V;PRS;COND;POS;3;SG
+pesta	pezižiba	V;PRS;COND;POS;3;PL
+pesta	peznuižiba	V;PST;IPFV;COND;POS;3;PL
+pesta	peskam	V;IMP;POS;1;PL
+pesta	peskat	V;IMP;POS;2;PL
+pesta	en pezend	V;PST;IPFV;IND;NEG;1;SG
+pesta	ed pezend	V;PST;IPFV;IND;NEG;2;SG
+pesta	en pezen	V;PST;IPFV;IND;NEG;1;SG
+pesta	ed pezen	V;PST;IPFV;IND;NEG;2;SG
+pesta	ei pezen	V;PST;IPFV;IND;NEG;3;SG
+pesta	pezemaa	V;PRS;IND;POS;1;PL
+pesta	pezetaa	V;PRS;IND;POS;2;PL
+pesta	emaa peze	V;PRS;IND;NEG;1;PL
+pesta	etaa peze	V;PRS;IND;NEG;2;PL
+pesta	ebad peze	V;PRS;IND;NEG;3;PL
+pesta	peziimaa	V;PST;IPFV;IND;POS;1;PL
+pesta	peziitaa	V;PST;IPFV;IND;POS;2;PL
+pesta	peziiba	V;PST;IPFV;IND;POS;3;PL
+pesta	en olen(d pezen(d)	V;PST;PRF;IND;NEG;1;SG
+pesta	ed olen(d pezen(d)	V;PST;PRF;IND;NEG;2;SG
+pesta	ei olen(d pezen(d)	V;PST;PRF;IND;NEG;3;SG
+pesta	emaa olen(d pezen(d)	V;PST;PRF;IND;NEG;1;PL
+pesta	etaa olen(d pezen(d)	V;PST;PRF;IND;NEG;2;PL
+pesta	ebad olen(d pezen(d)	V;PST;PRF;IND;NEG;3;PL
+pesta	laske ii peze	V;IMP;NEG;3;SG
+pesta	aagam peze	V;IMP;NEG;1;PL
+pesta	aagat peze	V;IMP;NEG;2;PL
+pesta	laske ii peskoo	V;IMP;NEG;3;PL
+pesta	pezižimaa	V;PRS;COND;POS;1;PL
+pesta	pezitaa	V;PRS;COND;POS;2;PL
+pesta	en peziž	V;PRS;COND;NEG;1;SG
+pesta	ed peziž	V;PRS;COND;NEG;2;SG
+pesta	ei peziž	V;PRS;COND;NEG;3;SG
+pesta	emaa peziž	V;PRS;COND;NEG;1;PL
+pesta	etaa peziž	V;PRS;COND;NEG;2;PL
+pesta	ebad peziž	V;PRS;COND;NEG;3;PL
+pesta	peznuiž	V;PST;IPFV;COND;POS;3;SG
+pesta	peznuižimaa	V;PST;IPFV;COND;POS;1;PL
+pesta	peznuižitaa	V;PST;IPFV;COND;POS;2;PL
+pesta	en peznuiž	V;PST;IPFV;COND;NEG;1;SG
+pesta	etaa peznuiž	V;PST;IPFV;COND;NEG;2;PL
+pesta	en peznuuž	V;PRS;PRF;COND;NEG;1;SG
+pesta	ei pezend	V;PST;IPFV;IND;NEG;3;SG
+pesta	ema pezen	V;PST;IPFV;IND;NEG;1;PL
+pesta	ema pezend	V;PST;IPFV;IND;NEG;1;PL
+pesta	etaa pezen	V;PST;IPFV;IND;NEG;2;PL
+pesta	etaa pezend	V;PST;IPFV;IND;NEG;2;PL
+pesta	ebad pezen	V;PST;IPFV;IND;NEG;3;PL
+pesta	ebad pezend	V;PST;IPFV;IND;NEG;3;PL
+pesta	olen pezen	V;PRS;PRF;IND;POS;1;SG
+pesta	olen pezend	V;PRS;PRF;IND;POS;1;SG
+pesta	oled pezen	V;PRS;PRF;IND;POS;2;SG
+pesta	oled pezend	V;PRS;PRF;IND;POS;2;SG
+pesta	om pezen	V;PRS;PRF;IND;POS;3;SG
+pesta	om pezend	V;PRS;PRF;IND;POS;3;SG
+pesta	olemaa pezen	V;PRS;PRF;IND;POS;1;PL
+pesta	olemaa pezend	V;PRS;PRF;IND;POS;1;PL
+pesta	oletaa pezen. oletaa pezend	V;PRS;PRF;IND;POS;2;PL
+pesta	oma pezen	V;PRS;PRF;IND;POS;3;PL
+pesta	oma pezend	V;PRS;PRF;IND;POS;3;PL
+pesta	en ole pezen	V;PRS;PRF;IND;NEG;1;SG
+pesta	en ole pezend	V;PRS;PRF;IND;NEG;1;SG
+pesta	ed ole peze	V;PRS;PRF;IND;NEG;2;SG
+pesta	ed ole pezed	V;PRS;PRF;IND;NEG;2;SG
+pesta	ei ole pezen	V;PRS;PRF;IND;NEG;3;SG
+pesta	ei ole pezend	V;PRS;PRF;IND;NEG;3;SG
+pesta	emaa ole pezen	V;PRS;PRF;IND;NEG;1;PL
+pesta	emaa ole pezend	V;PRS;PRF;IND;NEG;1;PL
+pesta	etaa ole pezen	V;PRS;PRF;IND;NEG;2;PL
+pesta	etaa ole pezend	V;PRS;PRF;IND;NEG;2;PL
+pesta	ebad ole pezen	V;PRS;PRF;IND;NEG;3;PL
+pesta	ebad ole pezend	V;PRS;PRF;IND;NEG;3;PL
+pesta	oli pezen	V;PST;PRF;IND;POS;3;SG
+pesta	oli pezend	V;PST;PRF;IND;POS;3;SG
+pesta	oliimaa pezen	V;PST;PRF;IND;POS;1;PL
+pesta	oliimaa pezend	V;PST;PRF;IND;POS;1;PL
+pesta	oliita pezen	V;PST;PRF;IND;POS;2;PL
+pesta	oliita pezend	V;PST;PRF;IND;POS;2;PL
+pesta	oliiba pezen	V;PST;PRF;IND;POS;3;PL
+pesta	oliiba pezend	V;PST;PRF;IND;POS;3;PL
+pesta	oliiž pezen	V;PRS;PRF;COND;POS;3;SG
+pesta	oliiž pezend	V;PRS;PRF;COND;POS;3;SG
+pesta	oliižimaa pezen	V;PRS;PRF;COND;POS;1;PL
+pesta	oliižimaa pezend	V;PRS;PRF;COND;POS;1;PL
+pesta	oliižitaa pezen	V;PRS;PRF;COND;POS;2;PL
+pesta	oliižitaa pezend	V;PRS;PRF;COND;POS;2;PL
+pesta	oliižiba pezen	V;PRS;PRF;COND;POS;3;PL
+pesta	oliižiba pezend	V;PRS;PRF;COND;POS;3;PL
+pesta	ooniž pezen	V;PST;PRF;COND;POS;3;SG
+pesta	ooniž pezend	V;PST;PRF;COND;POS;3;SG
+pesta	oonižimaa pezen	V;PST;PRF;COND;POS;1;PL
+pesta	oonižimaa pezend	V;PST;PRF;COND;POS;1;PL
+pesta	oonižita pezen	V;PST;PRF;COND;POS;2;PL
+pesta	oonižita pezend	V;PST;PRF;COND;POS;2;PL
+pesta	oonižiba pezen	V;PST;PRF;COND;POS;3;PL
+pesta	oonižiba pezend	V;PST;PRF;COND;POS;3;PL
+pesta	en ooniž pezen	V;PST;PRF;COND;NEG;1;SG
+pesta	en ooniž pezend	V;PST;PRF;COND;NEG;1;SG
+pesta	ed ooniž pezen	V;PST;PRF;COND;NEG;2;SG
+pesta	ed ooniž pezend	V;PST;PRF;COND;NEG;2;SG
+pesta	ei ooniž pezen	V;PST;PRF;COND;NEG;3;SG
+pesta	ei ooniž pezend	V;PST;PRF;COND;NEG;3;SG
+pesta	emaa ooniž pezen	V;PST;PRF;COND;NEG;1;PL
+pesta	emaa ooniž pezend	V;PST;PRF;COND;NEG;1;PL
+pesta	etaa ooniž pezen	V;PST;PRF;COND;NEG;2;PL
+pesta	etaa ooniž pezend	V;PST;PRF;COND;NEG;2;PL
+pesta	ebad ooniž pezen	V;PST;PRF;COND;NEG;3;PL
+pesta	ebad ooniž pezend	V;PST;PRF;COND;NEG;3;PL
+pesta	pezižin’	V;PRS;COND;POS;1;SG
+pesta	pezižid’	V;PRS;COND;POS;2;SG
+pesta	peznuižin’	V;PST;IPFV;COND;POS;1;SG
+pesta	peznuižid’	V;PST;IPFV;COND;POS;2;SG
+pesta	peziin’	V;PST;IPFV;IND;POS;1;SG
+pesta	peziid’	V;PST;IPFV;IND;POS;2;SG
+pesta	oliin’ pezen	V;PST;PRF;IND;POS;1;SG
+pesta	oliin’ pezend	V;PST;PRF;IND;POS;1;SG
+pesta	oliid’ pezen	V;PST;PRF;IND;POS;2;SG
+pesta	oliid’ pezend	V;PST;PRF;IND;POS;2;SG
+pesta	ed peznuiž	V;PST;IPFV;COND;NEG;2;SG
+pesta	ei peznuiž	V;PST;IPFV;COND;NEG;3;SG
+pesta	emaa peznuiž	V;PST;IPFV;COND;NEG;1;PL
+pesta	ebad peznuiž	V;PST;IPFV;COND;NEG;3;PL
+pesta	oliižin’ pezen	V;PRS;PRF;COND;POS;1;SG
+pesta	oliižin’ pezend	V;PRS;PRF;COND;POS;1;SG
+pesta	oliižid’ pezen	V;PRS;PRF;COND;POS;2;SG
+pesta	oliižid’ pezend	V;PRS;PRF;COND;POS;2;SG
+pesta	ed peznuuž	V;PRS;PRF;COND;NEG;2;SG
+pesta	ei peznuuž	V;PRS;PRF;COND;NEG;3;SG
+pesta	emaa peznuuž	V;PRS;PRF;COND;NEG;1;PL
+pesta	etaa peznuuž	V;PRS;PRF;COND;NEG;2;PL
+pesta	ebad peznuuž	V;PRS;PRF;COND;NEG;3;PL
+pesta	oonižin’ pezen	V;PST;PRF;COND;POS;1;SG
+pesta	oonižin’ pezend	V;PST;PRF;COND;POS;1;SG
+pesta	oonižid’ pezen	V;PST;PRF;COND;POS;2;SG
+pesta	oonižid’ pezend	V;PST;PRF;COND;POS;2;SG
+pestas	peznuze	V.PTCP;PST;ACT
+pestas	pezese	V;PRS;IND;POS;3;SG
+pestas	en peste	V;PRS;IND;NEG;1;SG
+pestas	ii peste	V;PRS;IND;NEG;3;SG
+pestas	peste	V;IMP;POS;2;SG
+pestas	peskahas	V;IMP;POS;3;SG
+pestas	ala peste	V;IMP;NEG;2;SG
+pestas	peznižihe	V;PST;IPFV;COND;POS;3;SG
+pestas	en peznižihe	V;PST;IPFV;COND;NEG;1;SG
+pestas	ed peznižihe	V;PST;IPFV;COND;NEG;2;SG
+pestas	ii peznižihe	V;PST;IPFV;COND;NEG;3;SG
+pestas	pestaze	V;NFIN
+pestas	pezeme	V;PRS;IND;POS;1;SG
+pestas	pezete	V;PRS;IND;POS;2;SG
+pestas	pezemoo	V;PRS;IND;POS;1;PL
+pestas	pezetoo	V;PRS;IND;POS;2;PL
+pestas	pezesoo	V;PRS;IND;POS;3;PL
+pestas	ed pestee	V;PRS;IND;NEG;2;SG
+pestas	emaa peste	V;PRS;IND;NEG;1;PL
+pestas	etaa peste	V;PRS;IND;NEG;2;PL
+pestas	peziime	V;PST;IPFV;IND;POS;1;SG
+pestas	peziite	V;PST;IPFV;IND;POS;2;SG
+pestas	peziihe	V;PST;IPFV;IND;POS;3;SG
+pestas	peziimoo	V;PST;IPFV;IND;POS;1;PL
+pestas	peziitoo	V;PST;IPFV;IND;POS;2;PL
+pestas	peziihoo	V;PST;IPFV;IND;POS;3;PL
+pestas	en peznuzhe	V;PST;IPFV;IND;NEG;1;SG
+pestas	ed peznuzhe	V;PST;IPFV;IND;NEG;2;SG
+pestas	ii peznuzhe	V;PST;IPFV;IND;NEG;3;SG
+pestas	emaa peznuzhe	V;PST;IPFV;IND;NEG;1;PL
+pestas	etaa peznuzhe	V;PST;IPFV;IND;NEG;2;PL
+pestas	ebad peznuzhe	V;PST;IPFV;IND;NEG;3;PL
+pestas	olen peznuzhe	V;PRS;PRF;IND;POS;1;SG
+pestas	oled peznuzhe	V;PRS;PRF;IND;POS;2;SG
+pestas	om peznuzhe	V;PRS;PRF;IND;POS;3;SG
+pestas	olemaa peznuzhoo	V;PRS;PRF;IND;POS;1;PL
+pestas	oletaa peznuzhoo	V;PRS;PRF;IND;POS;2;PL
+pestas	oma peznuzhoo	V;PRS;PRF;IND;POS;3;PL
+pestas	en ole peznuzhe	V;PRS;PRF;IND;NEG;1;SG
+pestas	ed ole peznuzhe	V;PRS;PRF;IND;NEG;2;SG
+pestas	ii ole peznuzhe	V;PRS;PRF;IND;NEG;3;SG
+pestas	emaa ole peznuzhoo	V;PRS;PRF;IND;NEG;1;PL
+pestas	etaa ole peznuzhoo	V;PRS;PRF;IND;NEG;2;PL
+pestas	ebad ole peznuzhoo	V;PRS;PRF;IND;NEG;3;PL
+pestas	en olen peznuzhe	V;PST;PRF;IND;NEG;1;SG
+pestas	ed olen peznuzhe	V;PST;PRF;IND;NEG;2;SG
+pestas	ii olen peznuzhe	V;PST;PRF;IND;NEG;3;SG
+pestas	peskamoo	V;IMP;POS;1;PL
+pestas	peskatoo	V;IMP;POS;2;PL
+pestas	peskasoo	V;IMP;POS;3;PL
+pestas	laske ii peste	V;IMP;NEG;3;SG
+pestas	laske ii peste	V;IMP;NEG;3;PL
+pestas	aagam peste	V;IMP;NEG;1;PL
+pestas	aagat peste	V;IMP;NEG;2;PL
+pestas	peziižime	V;PRS;COND;POS;1;SG
+pestas	peziižite	V;PRS;COND;POS;2;SG
+pestas	peziižihe	V;PRS;COND;POS;3;SG
+pestas	peziižimoo	V;PRS;COND;POS;1;PL
+pestas	peziižitoo	V;PRS;COND;POS;2;PL
+pestas	peziižihoo	V;PRS;COND;POS;3;PL
+pestas	en peziižihe	V;PRS;COND;NEG;1;SG
+pestas	ed peziižihe	V;PRS;COND;NEG;2;SG
+pestas	ii peziižihe	V;PRS;COND;NEG;3;SG
+pestas	emaa peziižihoo	V;PRS;COND;NEG;1;PL
+pestas	etaa peziižihoo	V;PRS;COND;NEG;2;PL
+pestas	ebad peziižihoo	V;PRS;COND;NEG;3;PL
+pestas	peznižime	V;PST;IPFV;COND;POS;1;SG
+pestas	peznižite	V;PST;IPFV;COND;POS;2;SG
+pestas	peznižimoo	V;PST;IPFV;COND;POS;1;PL
+pestas	peznižitoo	V;PST;IPFV;COND;POS;2;PL
+pestas	peznižihoo	V;PST;IPFV;COND;POS;3;PL
+pestas	emaa peznižihoo	V;PST;IPFV;COND;NEG;1;PL
+pestas	etaa peznižihoo	V;PST;IPFV;COND;NEG;2;PL
+pestas	ebad peznižihoo	V;PST;IPFV;COND;NEG;3;PL
+pestas	oliiž peznuzhe	V;PRS;PRF;COND;POS;3;SG
+pestas	oliižimaa peznuzhoo	V;PRS;PRF;COND;POS;1;PL
+pestas	oliižitaa peznuzhoo	V;PRS;PRF;COND;POS;2;PL
+pestas	oliižiba peznuzhoo	V;PRS;PRF;COND;POS;3;PL
+pestas	en oliiž peznuzhe	V;PRS;PRF;COND;NEG;1;SG
+pestas	ed oliiž peznuzhe	V;PRS;PRF;COND;NEG;2;SG
+pestas	ii oliiž peznuzhe	V;PRS;PRF;COND;NEG;3;SG
+pestas	emaa oliiž peznuzhoo	V;PRS;PRF;COND;NEG;1;PL
+pestas	etaa oliiž peznuzhoo	V;PRS;PRF;COND;NEG;2;PL
+pestas	ebad oliiž peznuzhoo	V;PRS;PRF;COND;NEG;3;PL
+pestas	ooniž peznuzhe	V;PST;PRF;COND;POS;3;SG
+pestas	oonižimaa peznuzhoo	V;PST;PRF;COND;POS;1;PL
+pestas	oonižitaa peznuzhoo	V;PST;PRF;COND;POS;2;PL
+pestas	oonižibad peznuzhoo	V;PST;PRF;COND;POS;3;PL
+pestas	en ooniž peznuzhe	V;PST;PRF;COND;NEG;1;SG
+pestas	ed ooniž peznuzhe	V;PST;PRF;COND;NEG;2;SG
+pestas	ii ooniž peznuzhe	V;PST;PRF;COND;NEG;3;SG
+pestas	emaa ooniž peznuzhoo	V;PST;PRF;COND;NEG;1;PL
+pestas	etaa ooniž peznuzhoo	V;PST;PRF;COND;NEG;2;PL
+pestas	ebad ooniž peznuzhoo	V;PST;PRF;COND;NEG;3;PL
+pestas	ebad peste	V;PRS;IND;NEG;3;PL
+pestas	oliin’ peznuzhe	V;PST;PRF;IND;POS;1;SG
+pestas	oliid’ peznuzhe	V;PST;PRF;IND;POS;2;SG
+pestas	oli peznuzhe	V;PST;PRF;IND;POS;3;SG
+pestas	oliimaa peznuzhoo	V;PST;PRF;IND;POS;1;PL
+pestas	oliitaa peznuzhoo	V;PST;PRF;IND;POS;2;PL
+pestas	oliiba peznuzhoo	V;PST;PRF;IND;POS;3;PL
+pestas	emaa olen peznuzhoo	V;PST;PRF;IND;NEG;1;PL
+pestas	etaa olen peznuzhoo	V;PST;PRF;IND;NEG;2;PL
+pestas	ebad olen peznuzhoo	V;PST;PRF;IND;NEG;3;PL
+pestas	oliižin’ peznuzhe	V;PRS;PRF;COND;POS;1;SG
+pestas	oliižid’ peznuzhe	V;PRS;PRF;COND;POS;2;SG
+pestas	oonižin’ peznuzhe	V;PST;PRF;COND;POS;1;SG
+pestas	oonižid’ peznuzhe	V;PST;PRF;COND;POS;2;SG
