@@ -1,15 +1,396 @@
-# Veps: Northern Veps
-eläda	eletihe	V;PST;IPFV;IND;POS;3;PL
+# Vepsian: Northern Veps
+Kalag’	Kalagen	PROPN;GEN;SG
+d’äniš	d’äniš	N;NOM;SG
+d’äniš	d’äniš	N;ACC;SG
+d’äniš	d’änišan	N;GEN;SG
+d’äniš	d’änišan	N;ACC;SG
+d’äniš	d’änišan	N;FRML;SG
+d’äniš	d’änišad	N;NOM;PL
+d’äniš	d’änišad	N;PRT;SG
+d’äniš	d’änišad	N;ACC;PL
+d’äniš	d’änišaks	N;TRANS;SG
+d’äniš	d’änišas	N;IN+ESS;SG
+d’äniš	d’änišaspäi	N;IN+ABL;SG
+d’äniš	d’änišaha	N;IN+ALL;SG
+d’äniš	d’änišal	N;AT+ESS;SG
+d’äniš	d’änišalpäi	N;AT+ABL;SG
+d’äniš	d’änišale	N;AT+ALL;SG
+d’äniš	d’änišata	N;PRIV ;SG
+d’äniš	d’änišanke	N;COM;SG
+d’äniš	d’änišadme	N;PROL;SG
+d’äniš	d’änišannoks	N;APPRX;SG
+d’äniš	d’änišannopäi	N;ON/AT+ABL;SG
+d’äniš	d’änišahasai	N;TERM;SG
+d’äniš	d’änišahapäi	N;PRP;SG
+d’äniš	d’änišiden	N;GEN;PL
+d’äniš	d’änišid	N;PRT;PL
+d’äniš	d’änišin	N;FRML;PL
+d’äniš	d’änišikš	N;TRANS;PL
+d’äniš	d’änišiš	N;IN+ESS;PL
+d’äniš	d’änišišpäi	N;IN+ABL;PL
+d’äniš	d’änišihe	N;IN+ALL;PL
+d’äniš	d’änišil	N;AT+ESS;PL
+d’äniš	d’änišilpäi	N;AT+ABL;PL
+d’äniš	d’änišile	N;AT+ALL;PL
+d’äniš	d’änišita	N;PRIV ;PL
+d’äniš	d’änišidenke	N;COM;PL
+d’äniš	d’änišidme	N;PROL;PL
+d’äniš	d’änišidennoks	N;APPRX;PL
+d’äniš	d’änišidennopäi	N;ON/AT+ABL;PL
+d’äniš	d’änišihesai	N;TERM;PL
+d’äniš	d’änišihepäi	N;PRP;PL
+eläda	eläi	V.PTCP;PRS;ACT
+eläda	elän	V;PRS;IND;POS;1;SG
+eläda	elänuižim	V;PST;IPFV;COND;POS;1;PL
+eläda	elänu	V.PTCP;PST;ACT
+eläda	elä	V;IMP;POS;2;SG
+eläda	eläb	V;PRS;IND;POS;3;SG
+eläda	elägat	V;IMP;POS;2;PL
+eläda	eli	V;PST;IPFV;IND;POS;3;SG
+eläda	eläd	V;PRS;IND;POS;2;SG
+eläda	eläd	V;PRS;IND;POS;2;PL
+eläda	eläda	V;NFIN
+eläda	elin	V;PST;IPFV;IND;POS;1;SG
+eläda	eläm	V;PRS;IND;POS;1;PL
+eläda	elid	V;PST;IPFV;IND;POS;2;SG
+eläda	elid	V;PST;IPFV;IND;POS;2;PL
+eläda	elim	V;PST;IPFV;IND;POS;1;PL
+eläda	elägam	V;IMP;POS;1;PL
+eläda	eližin	V;PRS;COND;POS;1;SG
+eläda	eližid	V;PRS;COND;POS;2;SG
+eläda	eližid	V;PRS;COND;POS;2;PL
+eläda	eliži	V;PRS;COND;POS;3;SG
+eläda	eližim	V;PRS;COND;POS;1;PL
+eläda	elänuižin	V;PST;IPFV;COND;POS;1;SG
+eläda	elänuižid	V;PST;IPFV;COND;POS;2;SG
+eläda	elänuižid	V;PST;IPFV;COND;POS;2;PL
+eläda	elänuiži	V;PST;IPFV;COND;POS;3;SG
+eläda	en elä	V;PRS;IND;NEG;1;SG
+eläda	ed elä	V;PRS;IND;NEG;2;SG
+eläda	en elänu	V;PST;IPFV;IND;NEG;1;SG
+eläda	ed elänu	V;PST;IPFV;IND;NEG;2;SG
+eläda	olen elänu	V;PRS;PRF;IND;POS;1;SG
+eläda	oled elänu	V;PRS;PRF;IND;POS;2;SG
+eläda	om elänu	V;PRS;PRF;IND;POS;3;SG
+eläda	en ole elänu	V;PRS;PRF;IND;NEG;1;SG
+eläda	ed ole elänu	V;PRS;PRF;IND;NEG;2;SG
+eläda	olin elänu	V;PST;PRF;IND;POS;1;SG
+eläda	olid elänu	V;PST;PRF;IND;POS;2;SG
+eläda	oli elänu	V;PST;PRF;IND;POS;3;SG
+eläda	en olnu elänu	V;PST;PRF;IND;NEG;1;SG
+eläda	ed olnu elänu	V;PST;PRF;IND;NEG;2;SG
+eläda	elägaha	V;IMP;POS;3;SG
+eläda	elägaha	V;IMP;POS;3;PL
+eläda	ala elä	V;IMP;NEG;2;SG
+eläda	en eliži	V;PRS;COND;NEG;1;SG
+eläda	ed eliži	V;PRS;COND;NEG;2;SG
+eläda	en elänuiži	V;PST;IPFV;COND;NEG;1;SG
+eläda	ed elänuiži	V;PST;IPFV;COND;NEG;2;SG
+eläda	ed elänuiži	V;PST;IPFV;COND;NEG;2;PL
+eläda	em elänuiži	V;PST;IPFV;COND;NEG;1;PL
+eläda	elädud	V.PTCP;PST;PASS
+eläda	elädud	V.PTCP;PST;ACT;PL
+eläda	elädihe	V;PST;IPFV;IND;POS;3;PL
+eläda	elädihe	V;PASS;PST;IPFV
+eläda	om elädud	V;PASS;PRS;PRF
+eläda	oli elädud	V;PASS;PST;PRF
+eläda	elädaze	V;PRS;IND;POS;3;PL
+eläda	elädaze	V;PASS;PRS
+eläda	ii elä	V;PRS;IND;NEG;3;SG
+eläda	em elägii	V;PRS;IND;NEG;1;PL
+eläda	ed elägii	V;PRS;IND;NEG;2;PL
+eläda	ii elägii	V;PRS;IND;NEG;3;PL
+eläda	ii elänu	V;PST;IPFV;IND;NEG;3;SG
+eläda	em elädud	V;PST;IPFV;IND;NEG;1;PL
+eläda	ed elädud	V;PST;IPFV;IND;NEG;2;PL
+eläda	ii elädud	V;PST;IPFV;IND;NEG;3;PL
+eläda	olem elädud	V;PRS;PRF;IND;POS;1;PL
+eläda	oled elädud	V;PRS;PRF;IND;POS;2;PL
+eläda	oma elädud	V;PRS;PRF;IND;POS;3;PL
+eläda	iilä elänu	V;PRS;PRF;IND;NEG;3;SG
+eläda	em olgii elädud	V;PRS;PRF;IND;NEG;1;PL
+eläda	ed olgii elädud	V;PRS;PRF;IND;NEG;2;PL
+eläda	ii olgii elädud	V;PRS;PRF;IND;NEG;3;PL
+eläda	olim elädud	V;PST;PRF;IND;POS;1;PL
+eläda	olid elädud	V;PST;PRF;IND;POS;2;PL
+eläda	ol’d’he elädud	V;PST;PRF;IND;POS;3;PL
+eläda	ii olnu elänu	V;PST;PRF;IND;NEG;3;SG
+eläda	em oldud elädud	V;PST;PRF;IND;NEG;1;PL
+eläda	ed oldud elädud	V;PST;PRF;IND;NEG;2;PL
+eläda	ii oldud elädud	V;PST;PRF;IND;NEG;3;PL
+eläda	algii elägii	V;IMP;NEG;3;SG
+eläda	algii elägii	V;IMP;NEG;3;PL
+eläda	algam elägii	V;IMP;NEG;1;PL
+eläda	algat elägii	V;IMP;NEG;2;PL
+eläda	eliž	V;PRS;COND;POS;3;SG
+eläda	elädeiž	V;PRS;COND;POS;3;PL
+eläda	en eliž	V;PRS;COND;NEG;1;SG
+eläda	ed eliž	V;PRS;COND;NEG;2;SG
+eläda	ii eliž	V;PRS;COND;NEG;3;SG
+eläda	ii eliži	V;PRS;COND;NEG;3;SG
+eläda	em elädeiž	V;PRS;COND;NEG;1;PL
+eläda	ed elädeiž	V;PRS;COND;NEG;2;PL
+eläda	ii elädeiž	V;PRS;COND;NEG;3;PL
+eläda	elänižin	V;PST;IPFV;COND;POS;1;SG
+eläda	elänižid	V;PST;IPFV;COND;POS;2;SG
+eläda	elänižid	V;PST;IPFV;COND;POS;2;PL
+eläda	eläniž	V;PST;IPFV;COND;POS;3;SG
+eläda	eläniži	V;PST;IPFV;COND;POS;3;SG
+eläda	elänuiž	V;PST;IPFV;COND;POS;3;SG
+eläda	elänižim	V;PST;IPFV;COND;POS;1;PL
+eläda	elädeniž	V;PST;IPFV;COND;POS;3;PL
+eläda	en eläniž	V;PST;IPFV;COND;NEG;1;SG
+eläda	en eläniži	V;PST;IPFV;COND;NEG;1;SG
+eläda	en elänuiž	V;PST;IPFV;COND;NEG;1;SG
+eläda	ed eläniž	V;PST;IPFV;COND;NEG;2;SG
+eläda	ed eläniž	V;PST;IPFV;COND;NEG;2;PL
+eläda	ed eläniži	V;PST;IPFV;COND;NEG;2;SG
+eläda	ed eläniži	V;PST;IPFV;COND;NEG;2;PL
+eläda	ed elänuiž	V;PST;IPFV;COND;NEG;2;SG
+eläda	ed elänuiž	V;PST;IPFV;COND;NEG;2;PL
+eläda	ii eläniž	V;PST;IPFV;COND;NEG;3;SG
+eläda	ii eläniži	V;PST;IPFV;COND;NEG;3;SG
+eläda	ii elänuiž	V;PST;IPFV;COND;NEG;3;SG
+eläda	ii elänuiži	V;PST;IPFV;COND;NEG;3;SG
+eläda	em eläniž	V;PST;IPFV;COND;NEG;1;PL
+eläda	em eläniži	V;PST;IPFV;COND;NEG;1;PL
+eläda	em elänuiž	V;PST;IPFV;COND;NEG;1;PL
+eläda	ii elädeniž	V;PST;IPFV;COND;NEG;3;PL
 hö	hiil	PRO;AT+ESS;PL
+kaikutte	kaikuččen	PRO;GEN;SG
+kaikutte	kaikuččen	PRO;FRML;SG
+kazda	kazda	V;NFIN
+kazda	kazgaha	V;IMP;POS;3;SG
+kazda	kazgaha	V;IMP;POS;3;PL
+kazda	kazvoim	V;PST;IPFV;IND;POS;1;PL
+kazda	kazvoi	V;PST;IPFV;IND;POS;3;SG
+kazda	kaznu	V.PTCP;PST;ACT
+kazda	kazvab	V;PRS;IND;POS;3;SG
+kazda	kazvan	V;PRS;IND;POS;1;SG
+kazda	kazvad	V;PRS;IND;POS;2;SG
+kazda	kazvad	V;PRS;IND;POS;2;PL
+kazda	kazvam	V;PRS;IND;POS;1;PL
+kazda	kazva	V;IMP;POS;2;SG
+kazda	en kazva	V;PRS;IND;NEG;1;SG
+kazda	ed kazva	V;PRS;IND;NEG;2;SG
+kazda	kazvoin	V;PST;IPFV;IND;POS;1;SG
+kazda	kazvoid	V;PST;IPFV;IND;POS;2;SG
+kazda	kazvoid	V;PST;IPFV;IND;POS;2;PL
+kazda	kazgam	V;IMP;POS;1;PL
+kazda	kazgat	V;IMP;POS;2;PL
+kazda	ala kazva	V;IMP;NEG;2;SG
+kazda	kazvaižin	V;PRS;COND;POS;1;SG
+kazda	kazvaižid	V;PRS;COND;POS;2;SG
+kazda	kazvaižid	V;PRS;COND;POS;2;PL
+kazda	kazvaiži	V;PRS;COND;POS;3;SG
+kazda	kazvaižim	V;PRS;COND;POS;1;PL
+kazda	kaznuižin	V;PST;IPFV;COND;POS;1;SG
+kazda	kaznuižid	V;PST;IPFV;COND;POS;2;SG
+kazda	kaznuižid	V;PST;IPFV;COND;POS;2;PL
+kazda	kaznuiži	V;PST;IPFV;COND;POS;3;SG
+kazda	kaznuižim	V;PST;IPFV;COND;POS;1;PL
+kazda	en kaznuiži	V;PST;IPFV;COND;NEG;1;SG
+kazda	ed kaznuiži	V;PST;IPFV;COND;NEG;2;SG
+kazda	ed kaznuiži	V;PST;IPFV;COND;NEG;2;PL
+kazda	kazvai	V.PTCP;PRS;ACT
+kazda	kazdud	V.PTCP;PST;PASS
+kazda	kazdud	V.PTCP;PST;ACT;PL
+kazda	en kaznu	V;PST;IPFV;IND;NEG;1;SG
+kazda	ed kaznu	V;PST;IPFV;IND;NEG;2;SG
+kazda	olen kaznu	V;PRS;PRF;IND;POS;1;SG
+kazda	oled kaznu	V;PRS;PRF;IND;POS;2;SG
+kazda	om kaznu	V;PRS;PRF;IND;POS;3;SG
+kazda	en ole kaznu	V;PRS;PRF;IND;NEG;1;SG
+kazda	ed ole kaznu	V;PRS;PRF;IND;NEG;2;SG
+kazda	olin kaznu	V;PST;PRF;IND;POS;1;SG
+kazda	olid kaznu	V;PST;PRF;IND;POS;2;SG
+kazda	oli kaznu	V;PST;PRF;IND;POS;3;SG
+kazda	en olnu kaznu	V;PST;PRF;IND;NEG;1;SG
+kazda	ed olnu kaznu	V;PST;PRF;IND;NEG;2;SG
+kazda	en kazvaiži	V;PRS;COND;NEG;1;SG
+kazda	ed kazvaiži	V;PRS;COND;NEG;2;SG
+kazda	em kaznuiži	V;PST;IPFV;COND;NEG;1;PL
+kazda	kazdihe	V;PST;IPFV;IND;POS;3;PL
+kazda	kazdihe	V;PASS;PST;IPFV
+kazda	om kazdud	V;PASS;PRS;PRF
+kazda	oli kazdud	V;PASS;PST;PRF
+kazda	kazdaze	V;PRS;IND;POS;3;PL
+kazda	kazdaze	V;PASS;PRS
+kazda	ii kazva	V;PRS;IND;NEG;3;SG
+kazda	em kazgii	V;PRS;IND;NEG;1;PL
+kazda	ed kazgii	V;PRS;IND;NEG;2;PL
+kazda	ii kazgii	V;PRS;IND;NEG;3;PL
+kazda	ii kaznu	V;PST;IPFV;IND;NEG;3;SG
+kazda	em kazdud	V;PST;IPFV;IND;NEG;1;PL
+kazda	ed kazdud	V;PST;IPFV;IND;NEG;2;PL
+kazda	ii kazdud	V;PST;IPFV;IND;NEG;3;PL
+kazda	olem kazdud	V;PRS;PRF;IND;POS;1;PL
+kazda	oled kazdud	V;PRS;PRF;IND;POS;2;PL
+kazda	oma kazdud	V;PRS;PRF;IND;POS;3;PL
+kazda	iilä kaznu	V;PRS;PRF;IND;NEG;3;SG
+kazda	em olgii kazdud	V;PRS;PRF;IND;NEG;1;PL
+kazda	ed olgii kazdud	V;PRS;PRF;IND;NEG;2;PL
+kazda	ii olgii kazdud	V;PRS;PRF;IND;NEG;3;PL
+kazda	olim kazdud	V;PST;PRF;IND;POS;1;PL
+kazda	olid kazdud	V;PST;PRF;IND;POS;2;PL
+kazda	ol’d’he kazdud	V;PST;PRF;IND;POS;3;PL
+kazda	ii olnu kaznu	V;PST;PRF;IND;NEG;3;SG
+kazda	em oldud kazdud	V;PST;PRF;IND;NEG;1;PL
+kazda	ed oldud kazdud	V;PST;PRF;IND;NEG;2;PL
+kazda	ii oldud kazdud	V;PST;PRF;IND;NEG;3;PL
+kazda	algii kazgii	V;IMP;NEG;3;SG
+kazda	algii kazgii	V;IMP;NEG;3;PL
+kazda	algam kazgii	V;IMP;NEG;1;PL
+kazda	algat kazgii	V;IMP;NEG;2;PL
+kazda	kazvaiž	V;PRS;COND;POS;3;SG
+kazda	kazdeiž	V;PRS;COND;POS;3;PL
+kazda	en kazvaiž	V;PRS;COND;NEG;1;SG
+kazda	ed kazvaiž	V;PRS;COND;NEG;2;SG
+kazda	ii kazvaiž	V;PRS;COND;NEG;3;SG
+kazda	ii kazvaiži	V;PRS;COND;NEG;3;SG
+kazda	em kazdeiž	V;PRS;COND;NEG;1;PL
+kazda	ed kazdeiž	V;PRS;COND;NEG;2;PL
+kazda	ii kazdeiž	V;PRS;COND;NEG;3;PL
+kazda	kaznižin	V;PST;IPFV;COND;POS;1;SG
+kazda	kaznižid	V;PST;IPFV;COND;POS;2;SG
+kazda	kaznižid	V;PST;IPFV;COND;POS;2;PL
+kazda	kazniž	V;PST;IPFV;COND;POS;3;SG
+kazda	kazniži	V;PST;IPFV;COND;POS;3;SG
+kazda	kaznuiž	V;PST;IPFV;COND;POS;3;SG
+kazda	kaznižim	V;PST;IPFV;COND;POS;1;PL
+kazda	kazdeniž	V;PST;IPFV;COND;POS;3;PL
+kazda	en kazniž	V;PST;IPFV;COND;NEG;1;SG
+kazda	en kazniži	V;PST;IPFV;COND;NEG;1;SG
+kazda	en kaznuiž	V;PST;IPFV;COND;NEG;1;SG
+kazda	ed kazniž	V;PST;IPFV;COND;NEG;2;SG
+kazda	ed kazniž	V;PST;IPFV;COND;NEG;2;PL
+kazda	ed kazniži	V;PST;IPFV;COND;NEG;2;SG
+kazda	ed kazniži	V;PST;IPFV;COND;NEG;2;PL
+kazda	ed kaznuiž	V;PST;IPFV;COND;NEG;2;SG
+kazda	ed kaznuiž	V;PST;IPFV;COND;NEG;2;PL
+kazda	ii kazniž	V;PST;IPFV;COND;NEG;3;SG
+kazda	ii kazniži	V;PST;IPFV;COND;NEG;3;SG
+kazda	ii kaznuiž	V;PST;IPFV;COND;NEG;3;SG
+kazda	ii kaznuiži	V;PST;IPFV;COND;NEG;3;SG
+kazda	em kazniž	V;PST;IPFV;COND;NEG;1;PL
+kazda	em kazniži	V;PST;IPFV;COND;NEG;1;PL
+kazda	em kaznuiž	V;PST;IPFV;COND;NEG;1;PL
+kazda	ii kazdeniž	V;PST;IPFV;COND;NEG;3;PL
+keza	kezad	N;NOM;PL
+keza	kezad	N;PRT;SG
+keza	kezad	N;ACC;PL
 keza	keza	N;NOM;SG
+keza	keza	N;ACC;SG
 keza	kezal	N;AT+ESS;SG
-minä	mina	PRO;NOM;SG
+keza	kezoin	N;FRML;PL
+keza	kezan	N;GEN;SG
+keza	kezan	N;ACC;SG
+keza	kezan	N;FRML;SG
+keza	kezaks	N;TRANS;SG
+keza	kezas	N;IN+ESS;SG
+keza	kezaspäi	N;IN+ABL;SG
+keza	kezalpäi	N;AT+ABL;SG
+keza	kezale	N;AT+ALL;SG
+keza	kezata	N;PRIV ;SG
+keza	kezanke	N;COM;SG
+keza	kezadme	N;PROL;SG
+keza	kezannoks	N;APPRX;SG
+keza	kezannopäi	N;ON/AT+ABL;SG
+keza	kezoiden	N;GEN;PL
+keza	kezoid	N;PRT;PL
+keza	kezoikš	N;TRANS;PL
+keza	kezoiš	N;IN+ESS;PL
+keza	kezoišpäi	N;IN+ABL;PL
+keza	kezoihe	N;IN+ALL;PL
+keza	kezoil	N;AT+ESS;PL
+keza	kezoilpäi	N;AT+ABL;PL
+keza	kezoile	N;AT+ALL;PL
+keza	kezoita	N;PRIV ;PL
+keza	kezoidenke	N;COM;PL
+keza	kezoidme	N;PROL;PL
+keza	kezoidennoks	N;APPRX;PL
+keza	kezoidennopäi	N;ON/AT+ABL;PL
+keza	kezoihesai	N;TERM;PL
+keza	kezoihepäi	N;PRP;PL
+keza	kezaha	N;IN+ALL;SG
+keza	kezha	N;IN+ALL;SG
+keza	kezahasai	N;TERM;SG
+keza	kezhasai	N;TERM;SG
+keza	kezahapäi	N;PRP;SG
+keza	kezhapäi	N;PRP;SG
+mec	mecha	N;IN+ALL;SG
+mif	mifoiden	N;GEN;PL
+mušt	muštoho	N;IN+ALL;SG
+mušt	muštho	N;IN+ALL;SG
+mušt	muštod	N;NOM;PL
+mušt	muštod	N;PRT;SG
+mušt	muštod	N;ACC;PL
+mušt	muštoks	N;TRANS;SG
+mušt	mušt	N;NOM;SG
+mušt	mušt	N;ACC;SG
+mušt	mušton	N;GEN;SG
+mušt	mušton	N;ACC;SG
+mušt	mušton	N;FRML;SG
+mušt	muštos	N;IN+ESS;SG
+mušt	muštospäi	N;IN+ABL;SG
+mušt	muštol	N;AT+ESS;SG
+mušt	muštolpäi	N;AT+ABL;SG
+mušt	muštole	N;AT+ALL;SG
+mušt	muštota	N;PRIV ;SG
+mušt	muštonke	N;COM;SG
+mušt	muštodme	N;PROL;SG
+mušt	muštonnoks	N;APPRX;SG
+mušt	muštonnopäi	N;ON/AT+ABL;SG
+mušt	muštohosai	N;TERM;SG
+mušt	mušthosai	N;TERM;SG
+mušt	muštohopäi	N;PRP;SG
+mušt	mušthopäi	N;PRP;SG
+mušt	muštoiden	N;GEN;PL
+mušt	muštoid	N;PRT;PL
+mušt	muštoin	N;FRML;PL
+mušt	muštoikš	N;TRANS;PL
+mušt	muštoiš	N;IN+ESS;PL
+mušt	muštoišpäi	N;IN+ABL;PL
+mušt	muštoihe	N;IN+ALL;PL
+mušt	muštoil	N;AT+ESS;PL
+mušt	muštoilpäi	N;AT+ABL;PL
+mušt	muštoile	N;AT+ALL;PL
+mušt	muštoita	N;PRIV ;PL
+mušt	muštoidenke	N;COM;PL
+mušt	muštoidme	N;PROL;PL
+mušt	muštoidennoks	N;APPRX;PL
+mušt	muštoidennopäi	N;ON/AT+ABL;PL
+mušt	muštoihesai	N;TERM;PL
+mušt	muštoihepäi	N;PRP;PL
 olda	iilä	V;PRS;IND;NEG;3;SG
+olda	olen	V;PRS;IND;POS;1;SG
 olda	oliš	V;PST;IPFV;IND;POS;3;SG
 olda	ol’	V;PST;IPFV;IND;POS;3;SG
+olda	olim	V;PST;IPFV;IND;POS;1;PL
 olda	ol’dhe	V;PRS;IND;POS;3;PL
+olda	oled	V;PRS;IND;POS;2;SG
+olda	oled	V;PRS;IND;POS;2;PL
 olda	oliž	V;PRS;COND;POS;3;SG
+olda	olin	V;PST;IPFV;IND;POS;1;SG
+olda	oma	V;PRS;IND;POS;3;PL
+olda	om	V;PRS;IND;POS;3;SG
+olda	oli	V;PST;IPFV;IND;POS;3;SG
+olda	olem	V;PRS;IND;POS;1;PL
+olda	en ole	V;PRS;IND;NEG;1;SG
+olda	ed ole	V;PRS;IND;NEG;2;SG
 olda	ei olnu	V;PST;IPFV;IND;NEG;3;SG
+olda	olid	V;PST;IPFV;IND;POS;2;SG
+olda	olid	V;PST;IPFV;IND;POS;2;PL
+olda	em olgii	V;PRS;IND;NEG;1;PL
+olda	ed olgii	V;PRS;IND;NEG;2;PL
+olda	ii olgii	V;PRS;IND;NEG;3;PL
+olda	ol’d’he	V;PST;IPFV;IND;POS;3;PL
+olda	en olnu	V;PST;IPFV;IND;NEG;1;SG
+olda	ed olnu	V;PST;IPFV;IND;NEG;2;SG
+olda	ii olnu	V;PST;IPFV;IND;NEG;3;SG
+olda	em oldud	V;PST;IPFV;IND;NEG;1;PL
+olda	ed oldud	V;PST;IPFV;IND;NEG;2;PL
+olda	ii oldud	V;PST;IPFV;IND;NEG;3;PL
 pesta	pezi	V;PST;IPFV;IND;POS;3;SG
 pesta	peze	V;IMP;POS;2;SG
 pesta	peznu	V.PTCP;PST;ACT
@@ -93,36 +474,11 @@ pesta	ed pezniži	V;PST;IPFV;COND;NEG;2;SG
 pesta	ed pezniži	V;PST;IPFV;COND;NEG;2;PL
 pesta	em pezniži	V;PST;IPFV;COND;NEG;1;PL
 pesta	ii pesteniž	V;PST;IPFV;COND;NEG;3;PL
-pesta	oleižin peznu	V;PRS;PRF;COND;POS;1;SG
-pesta	oleižid peznu	V;PRS;PRF;COND;POS;2;SG
-pesta	oleiž peznu	V;PRS;PRF;COND;POS;3;SG
-pesta	oleižim pestud	V;PRS;PRF;COND;POS;1;PL
-pesta	oleižim pestud	V;PRS;PRF;COND;POS;2;PL
-pesta	oldeiž pestud	V;PRS;PRF;COND;POS;3;PL
-pesta	oldeiž pestud	V;PST;PRF;COND;POS;3;PL
-pesta	en oleiž peznu	V;PRS;PRF;COND;NEG;1;SG
-pesta	ed oleiž peznu	V;PRS;PRF;COND;NEG;2;SG
-pesta	iileiž peznu	V;PRS;PRF;COND;NEG;3;SG
-pesta	em oleiž pestud	V;PRS;PRF;COND;NEG;1;PL
-pesta	ed oleiž pestud	V;PRS;PRF;COND;NEG;2;PL
-pesta	ii oleiž pestud	V;PRS;PRF;COND;NEG;3;PL
-pesta	olnižin peznu	V;PST;PRF;COND;POS;1;SG
-pesta	olnižid peznu	V;PST;PRF;COND;POS;2;SG
-pesta	olnižim pestud	V;PST;PRF;COND;POS;1;PL
-pesta	olnižid pestud	V;PST;PRF;COND;POS;2;PL
-pesta	en olniž peznu	V;PST;PRF;COND;NEG;1;SG
-pesta	ed olniž peznu	V;PST;PRF;COND;NEG;2;SG
-pesta	ii olniž peznu	V;PST;PRF;COND;NEG;3;SG
-pesta	em oldeiž pestud	V;PST;PRF;COND;NEG;1;PL
-pesta	ed oldeiž pestud	V;PST;PRF;COND;NEG;2;PL
-pesta	ii oldeiž pestud	V;PST;PRF;COND;NEG;3;PL
 pesta	peziž	V;PRS;COND;POS;3;SG
 pesta	ii peziž	V;PRS;COND;NEG;3;SG
 pesta	ii peziži	V;PRS;COND;NEG;3;SG
 pesta	ii pezniž	V;PST;IPFV;COND;NEG;3;SG
 pesta	ii pezniži	V;PST;IPFV;COND;NEG;3;SG
-pesta	olniž peznu	V;PST;PRF;COND;POS;3;SG
-pesta	olniži peznu	V;PST;PRF;COND;POS;3;SG
 pesta	ol’d’he pestud	V;PST;PRF;IND;POS;3;PL
 pestas	pezemei	V;PRS;IND;POS;1;SG
 pestas	pezemei	V;PRS;IND;POS;1;PL
@@ -201,40 +557,484 @@ pestas	peznižitei	V;PST;IPFV;COND;POS;2;PL
 pestas	peznižihe	V;PST;IPFV;COND;POS;3;SG
 pestas	peznižihe	V;PST;IPFV;COND;POS;3;PL
 pestas	en peznižihe	V;PST;IPFV;COND;NEG;1;SG
-pestas	ed en peznižihe	V;PST;IPFV;COND;NEG;2;SG
-pestas	ii en peznižihe	V;PST;IPFV;COND;NEG;3;SG
 pestas	em peznižihe	V;PST;IPFV;COND;NEG;1;PL
+pestas	ed peznižihe	V;PST;IPFV;COND;NEG;2;SG
 pestas	ed peznižihe	V;PST;IPFV;COND;NEG;2;PL
+pestas	ii peznižihe	V;PST;IPFV;COND;NEG;3;SG
 pestas	ii peznižihe	V;PST;IPFV;COND;NEG;3;PL
-pestas	oleižin peznuze	V;PRS;PRF;COND;POS;1;SG
-pestas	oleižid peznuze	V;PRS;PRF;COND;POS;2;SG
-pestas	oleižid peznuze	V;PRS;PRF;COND;POS;2;PL
-pestas	oleiži peznuze	V;PRS;PRF;COND;POS;3;SG
-pestas	oleižim peznuze	V;PRS;PRF;COND;POS;1;PL
-pestas	oldeiž peznuze	V;PRS;PRF;COND;POS;3;PL
-pestas	oldeiž peznuze	V;PST;PRF;COND;POS;3;PL
-pestas	em oldeiž peznuze	V;PRS;PRF;COND;NEG;1;PL
-pestas	ed oldeiž peznuze	V;PRS;PRF;COND;NEG;2;PL
-pestas	ii oldeiž peznuze	V;PRS;PRF;COND;NEG;3;PL
-pestas	olnižin peznuze	V;PST;PRF;COND;POS;1;SG
-pestas	olnižid peznuze	V;PST;PRF;COND;POS;2;SG
-pestas	olnižid peznuze	V;PST;PRF;COND;POS;2;PL
-pestas	olniž peznuze	V;PST;PRF;COND;POS;3;SG
-pestas	olnižim peznuze	V;PST;PRF;COND;POS;1;PL
-pestas	en olniž peznuze	V;PST;PRF;COND;NEG;1;SG
-pestas	ed olniž peznuze	V;PST;PRF;COND;NEG;2;SG
-pestas	ii olniž peznuze	V;PST;PRF;COND;NEG;3;SG
-pestas	em oleiž peznuze	V;PST;PRF;COND;NEG;1;PL
-pestas	ed oleiž peznuze	V;PRS;PRF;COND;NEG;2;SG
-pestas	ed oleiž peznuze	V;PST;PRF;COND;NEG;2;PL
-pestas	ii oleiž peznuze	V;PRS;PRF;COND;NEG;3;SG
-pestas	ii oleiž peznuze	V;PST;PRF;COND;NEG;3;PL
 pestas	pestaze	V;NFIN
 pestas	ol’d’he peznuze	V;PST;PRF;IND;POS;3;PL
-pestas	en oleiž peznuze	V;PRS;PRF;COND;NEG;1;SG
-päiv	päival	N;AT+ESS;SG
-toine	toižidenke	PRO;COM;PL
-toine	tošt’	PRO;PRT;SG
+päiv	päivid	N;PRT;PL
+päiv	päivän	N;GEN;SG
+päiv	päivän	N;ACC;SG
+päiv	päivän	N;FRML;SG
+päiv	päiväspäi	N;IN+ABL;SG
+päiv	päiväs	N;IN+ESS;SG
+päiv	päiv	N;NOM;SG
+päiv	päiv	N;ACC;SG
+päiv	päivišpäi	N;IN+ABL;PL
+päiv	päiväd	N;NOM;PL
+päiv	päiväd	N;PRT;SG
+päiv	päiväd	N;ACC;PL
+päiv	päivil	N;AT+ESS;PL
+päiv	päiväks	N;TRANS;SG
+päiv	päiväta	N;PRIV ;SG
+päiv	päivälpäi	N;AT+ABL;SG
+päiv	päiväle	N;AT+ALL;SG
+päiv	päivänke	N;COM;SG
+päiv	päivädme	N;PROL;SG
+päiv	päivännopäi	N;ON/AT+ABL;SG
+päiv	päividen	N;GEN;PL
+päiv	päivin	N;FRML;PL
+päiv	päivikš	N;TRANS;PL
+päiv	päiviš	N;IN+ESS;PL
+päiv	päivihe	N;IN+ALL;PL
+päiv	päivilpäi	N;AT+ABL;PL
+päiv	päivile	N;AT+ALL;PL
+päiv	päivita	N;PRIV ;PL
+päiv	päividenke	N;COM;PL
+päiv	päividme	N;PROL;PL
+päiv	päividennopäi	N;ON/AT+ABL;PL
+päiv	päivihesai	N;TERM;PL
+päiv	päivihepäi	N;PRP;PL
+päiv	päiväl	N;AT+ESS;SG
+päiv	päivähä	N;IN+ALL;SG
+päiv	päivännoks	N;APPRX;SG
+päiv	päivähäsai	N;TERM;SG
+päiv	päivähäpäi	N;PRP;SG
+päiv	päividennoks	N;APPRX;PL
+sada	sada	V;NFIN
+sada	sagat	V;IMP;POS;2;PL
+sada	sanuižin	V;PST;IPFV;COND;POS;1;SG
+sada	saižin	V;PRS;COND;POS;1;SG
+sada	sam	V;PRS;IND;POS;1;PL
+sada	sain	V;PST;IPFV;IND;POS;1;SG
+sada	said	V;PST;IPFV;IND;POS;2;SG
+sada	said	V;PST;IPFV;IND;POS;2;PL
+sada	sadud	V.PTCP;PST;PASS
+sada	sadud	V.PTCP;PST;ACT;PL
+sada	sai	V;PST;IPFV;IND;POS;3;SG
+sada	sai	V.PTCP;PRS;ACT
+sada	sa	V;IMP;POS;2;SG
+sada	san	V;PRS;IND;POS;1;SG
+sada	sab	V;PRS;IND;POS;3;SG
+sada	sanu	V.PTCP;PST;ACT
+sada	en sanu	V;PST;IPFV;IND;NEG;1;SG
+sada	ed sanu	V;PST;IPFV;IND;NEG;2;SG
+sada	sanuižid	V;PST;IPFV;COND;POS;2;SG
+sada	sanuižid	V;PST;IPFV;COND;POS;2;PL
+sada	sanuiži	V;PST;IPFV;COND;POS;3;SG
+sada	sanuižim	V;PST;IPFV;COND;POS;1;PL
+sada	en sanuiži	V;PST;IPFV;COND;NEG;1;SG
+sada	ed sanuiži	V;PST;IPFV;COND;NEG;2;SG
+sada	ed sanuiži	V;PST;IPFV;COND;NEG;2;PL
+sada	sad	V;PRS;IND;POS;2;SG
+sada	sad	V;PRS;IND;POS;2;PL
+sada	en sa	V;PRS;IND;NEG;1;SG
+sada	ed sa	V;PRS;IND;NEG;2;SG
+sada	saim	V;PST;IPFV;IND;POS;1;PL
+sada	olen sanu	V;PRS;PRF;IND;POS;1;SG
+sada	oled sanu	V;PRS;PRF;IND;POS;2;SG
+sada	om sanu	V;PRS;PRF;IND;POS;3;SG
+sada	en ole sanu	V;PRS;PRF;IND;NEG;1;SG
+sada	ed ole sanu	V;PRS;PRF;IND;NEG;2;SG
+sada	olin sanu	V;PST;PRF;IND;POS;1;SG
+sada	olid sanu	V;PST;PRF;IND;POS;2;SG
+sada	oli sanu	V;PST;PRF;IND;POS;3;SG
+sada	en olnu sanu	V;PST;PRF;IND;NEG;1;SG
+sada	ed olnu sanu	V;PST;PRF;IND;NEG;2;SG
+sada	sagha	V;IMP;POS;3;SG
+sada	sagha	V;IMP;POS;3;PL
+sada	sagam	V;IMP;POS;1;PL
+sada	ala sa	V;IMP;NEG;2;SG
+sada	saižid	V;PRS;COND;POS;2;SG
+sada	saižid	V;PRS;COND;POS;2;PL
+sada	saiži	V;PRS;COND;POS;3;SG
+sada	saižim	V;PRS;COND;POS;1;PL
+sada	en saiži	V;PRS;COND;NEG;1;SG
+sada	ed saiži	V;PRS;COND;NEG;2;SG
+sada	em sanuiži	V;PST;IPFV;COND;NEG;1;PL
+sada	sadihe	V;PST;IPFV;IND;POS;3;PL
+sada	sadihe	V;PASS;PST;IPFV
+sada	om sadud	V;PASS;PRS;PRF
+sada	oli sadud	V;PASS;PST;PRF
+sada	sadaze	V;PRS;IND;POS;3;PL
+sada	sadaze	V;PASS;PRS
+sada	ii sa	V;PRS;IND;NEG;3;SG
+sada	em sagii	V;PRS;IND;NEG;1;PL
+sada	ed sagii	V;PRS;IND;NEG;2;PL
+sada	ii sagii	V;PRS;IND;NEG;3;PL
+sada	ii sanu	V;PST;IPFV;IND;NEG;3;SG
+sada	em sadud	V;PST;IPFV;IND;NEG;1;PL
+sada	ed sadud	V;PST;IPFV;IND;NEG;2;PL
+sada	ii sadud	V;PST;IPFV;IND;NEG;3;PL
+sada	olem sadud	V;PRS;PRF;IND;POS;1;PL
+sada	oled sadud	V;PRS;PRF;IND;POS;2;PL
+sada	oma sadud	V;PRS;PRF;IND;POS;3;PL
+sada	iilä sanu	V;PRS;PRF;IND;NEG;3;SG
+sada	em olgii sadud	V;PRS;PRF;IND;NEG;1;PL
+sada	ed olgii sadud	V;PRS;PRF;IND;NEG;2;PL
+sada	ii olgii sadud	V;PRS;PRF;IND;NEG;3;PL
+sada	olim sadud	V;PST;PRF;IND;POS;1;PL
+sada	olid sadud	V;PST;PRF;IND;POS;2;PL
+sada	ol’d’he sadud	V;PST;PRF;IND;POS;3;PL
+sada	ii olnu sanu	V;PST;PRF;IND;NEG;3;SG
+sada	em oldud sadud	V;PST;PRF;IND;NEG;1;PL
+sada	ed oldud sadud	V;PST;PRF;IND;NEG;2;PL
+sada	ii oldud sadud	V;PST;PRF;IND;NEG;3;PL
+sada	algii sagii	V;IMP;NEG;3;SG
+sada	algii sagii	V;IMP;NEG;3;PL
+sada	algam sagii	V;IMP;NEG;1;PL
+sada	algat sagii	V;IMP;NEG;2;PL
+sada	saiž	V;PRS;COND;POS;3;SG
+sada	sadeiž	V;PRS;COND;POS;3;PL
+sada	en saiž	V;PRS;COND;NEG;1;SG
+sada	ed saiž	V;PRS;COND;NEG;2;SG
+sada	ii saiž	V;PRS;COND;NEG;3;SG
+sada	ii saiži	V;PRS;COND;NEG;3;SG
+sada	em sadeiž	V;PRS;COND;NEG;1;PL
+sada	ed sadeiž	V;PRS;COND;NEG;2;PL
+sada	ii sadeiž	V;PRS;COND;NEG;3;PL
+sada	sanižin	V;PST;IPFV;COND;POS;1;SG
+sada	sanižid	V;PST;IPFV;COND;POS;2;SG
+sada	sanižid	V;PST;IPFV;COND;POS;2;PL
+sada	saniž	V;PST;IPFV;COND;POS;3;SG
+sada	saniži	V;PST;IPFV;COND;POS;3;SG
+sada	sanuiž	V;PST;IPFV;COND;POS;3;SG
+sada	sanižim	V;PST;IPFV;COND;POS;1;PL
+sada	sadeniž	V;PST;IPFV;COND;POS;3;PL
+sada	en saniž	V;PST;IPFV;COND;NEG;1;SG
+sada	en saniži	V;PST;IPFV;COND;NEG;1;SG
+sada	en sanuiž	V;PST;IPFV;COND;NEG;1;SG
+sada	ed saniž	V;PST;IPFV;COND;NEG;2;SG
+sada	ed saniž	V;PST;IPFV;COND;NEG;2;PL
+sada	ed saniži	V;PST;IPFV;COND;NEG;2;SG
+sada	ed saniži	V;PST;IPFV;COND;NEG;2;PL
+sada	ed sanuiž	V;PST;IPFV;COND;NEG;2;SG
+sada	ed sanuiž	V;PST;IPFV;COND;NEG;2;PL
+sada	ii saniž	V;PST;IPFV;COND;NEG;3;SG
+sada	ii saniži	V;PST;IPFV;COND;NEG;3;SG
+sada	ii sanuiž	V;PST;IPFV;COND;NEG;3;SG
+sada	ii sanuiži	V;PST;IPFV;COND;NEG;3;SG
+sada	em saniž	V;PST;IPFV;COND;NEG;1;PL
+sada	em saniži	V;PST;IPFV;COND;NEG;1;PL
+sada	em sanuiž	V;PST;IPFV;COND;NEG;1;PL
+sada	ii sadeniž	V;PST;IPFV;COND;NEG;3;PL
+tehta	tegižim	V;PRS;COND;POS;1;PL
+tehta	tehkaha	V;IMP;POS;3;SG
+tehta	tehkaha	V;IMP;POS;3;PL
+tehta	tegem	V;PRS;IND;POS;1;PL
+tehta	tegižin	V;PRS;COND;POS;1;SG
+tehta	tehtihe	V;PST;IPFV;IND;POS;3;PL
+tehta	tehtihe	V;PASS;PST;IPFV
+tehta	tehnu	V.PTCP;PST;ACT
+tehta	tegim	V;PST;IPFV;IND;POS;1;PL
+tehta	tege	V;IMP;POS;2;SG
+tehta	tehkat	V;IMP;POS;2;PL
+tehta	tehtud	V.PTCP;PST;PASS
+tehta	tehtud	V.PTCP;PST;ACT;PL
+tehta	tegi	V;PST;IPFV;IND;POS;3;SG
+tehta	tegi	V.PTCP;PRS;ACT
+tehta	tegen	V;PRS;IND;POS;1;SG
+tehta	teged	V;PRS;IND;POS;2;SG
+tehta	teged	V;PRS;IND;POS;2;PL
+tehta	tegin	V;PST;IPFV;IND;POS;1;SG
+tehta	tehta	V;NFIN
+tehta	tehnižid	V;PST;IPFV;COND;POS;2;SG
+tehta	tehnižid	V;PST;IPFV;COND;POS;2;PL
+tehta	tehnižin	V;PST;IPFV;COND;POS;1;SG
+tehta	en tege	V;PRS;IND;NEG;1;SG
+tehta	ed tege	V;PRS;IND;NEG;2;SG
+tehta	tegid	V;PST;IPFV;IND;POS;2;SG
+tehta	tegid	V;PST;IPFV;IND;POS;2;PL
+tehta	en tehnu	V;PST;IPFV;IND;NEG;1;SG
+tehta	ed tehnu	V;PST;IPFV;IND;NEG;2;SG
+tehta	olen tehnu	V;PRS;PRF;IND;POS;1;SG
+tehta	oled tehnu	V;PRS;PRF;IND;POS;2;SG
+tehta	om tehnu	V;PRS;PRF;IND;POS;3;SG
+tehta	en ole tehnu	V;PRS;PRF;IND;NEG;1;SG
+tehta	ed ole tehnu	V;PRS;PRF;IND;NEG;2;SG
+tehta	olin tehnu	V;PST;PRF;IND;POS;1;SG
+tehta	olid tehnu	V;PST;PRF;IND;POS;2;SG
+tehta	oli tehnu	V;PST;PRF;IND;POS;3;SG
+tehta	en olnu tehnu	V;PST;PRF;IND;NEG;1;SG
+tehta	ed olnu tehnu	V;PST;PRF;IND;NEG;2;SG
+tehta	tehkam	V;IMP;POS;1;PL
+tehta	ala tege	V;IMP;NEG;2;SG
+tehta	tegižid	V;PRS;COND;POS;2;SG
+tehta	tegižid	V;PRS;COND;POS;2;PL
+tehta	tegiži	V;PRS;COND;POS;3;SG
+tehta	en tegiži	V;PRS;COND;NEG;1;SG
+tehta	ed tegiži	V;PRS;COND;NEG;2;SG
+tehta	tehnuižin	V;PST;IPFV;COND;POS;1;SG
+tehta	tehnuižid	V;PST;IPFV;COND;POS;2;SG
+tehta	tehnuižid	V;PST;IPFV;COND;POS;2;PL
+tehta	tehnuiži	V;PST;IPFV;COND;POS;3;SG
+tehta	tehnuižim	V;PST;IPFV;COND;POS;1;PL
+tehta	en tehnuiži	V;PST;IPFV;COND;NEG;1;SG
+tehta	ed tehnuiži	V;PST;IPFV;COND;NEG;2;SG
+tehta	ed tehnuiži	V;PST;IPFV;COND;NEG;2;PL
+tehta	em tehnuiži	V;PST;IPFV;COND;NEG;1;PL
+tehta	om tehtud	V;PASS;PRS;PRF
+tehta	oli tehtud	V;PASS;PST;PRF
+tehta	ii tege	V;PRS;IND;NEG;3;SG
+tehta	tegiž	V;PRS;COND;POS;3;SG
+tehta	en tegiž	V;PRS;COND;NEG;1;SG
+tehta	ed tegiž	V;PRS;COND;NEG;2;SG
+tehta	ii tegiž	V;PRS;COND;NEG;3;SG
+tehta	ii tegiži	V;PRS;COND;NEG;3;SG
+tehta	tehnuiž	V;PST;IPFV;COND;POS;3;SG
+tehta	en tehnuiž	V;PST;IPFV;COND;NEG;1;SG
+tehta	ed tehnuiž	V;PST;IPFV;COND;NEG;2;SG
+tehta	ed tehnuiž	V;PST;IPFV;COND;NEG;2;PL
+tehta	ii tehnuiž	V;PST;IPFV;COND;NEG;3;SG
+tehta	ii tehnuiži	V;PST;IPFV;COND;NEG;3;SG
+tehta	teggob	V;PRS;IND;POS;3;SG
+tehta	tehtaze	V;PRS;IND;POS;3;PL
+tehta	tehtaze	V;PASS;PRS
+tehta	em tehkii	V;PRS;IND;NEG;1;PL
+tehta	ed tehkii	V;PRS;IND;NEG;2;PL
+tehta	ii tehkii	V;PRS;IND;NEG;3;PL
+tehta	ii tehnu	V;PST;IPFV;IND;NEG;3;SG
+tehta	em tehtud	V;PST;IPFV;IND;NEG;1;PL
+tehta	ed tehtud	V;PST;IPFV;IND;NEG;2;PL
+tehta	ii tehtud	V;PST;IPFV;IND;NEG;3;PL
+tehta	olem tehtud	V;PRS;PRF;IND;POS;1;PL
+tehta	oled tehtud	V;PRS;PRF;IND;POS;2;PL
+tehta	oma tehtud	V;PRS;PRF;IND;POS;3;PL
+tehta	iilä tehnu	V;PRS;PRF;IND;NEG;3;SG
+tehta	em olgii tehtud	V;PRS;PRF;IND;NEG;1;PL
+tehta	ed olgii tehtud	V;PRS;PRF;IND;NEG;2;PL
+tehta	ii olgii tehtud	V;PRS;PRF;IND;NEG;3;PL
+tehta	olim tehtud	V;PST;PRF;IND;POS;1;PL
+tehta	olid tehtud	V;PST;PRF;IND;POS;2;PL
+tehta	ol’d’he tehtud	V;PST;PRF;IND;POS;3;PL
+tehta	ii olnu tehnu	V;PST;PRF;IND;NEG;3;SG
+tehta	em oldud tehtud	V;PST;PRF;IND;NEG;1;PL
+tehta	ed oldud tehtud	V;PST;PRF;IND;NEG;2;PL
+tehta	ii oldud tehtud	V;PST;PRF;IND;NEG;3;PL
+tehta	algii tehkii	V;IMP;NEG;3;SG
+tehta	algii tehkii	V;IMP;NEG;3;PL
+tehta	algam tehkii	V;IMP;NEG;1;PL
+tehta	algat tehkii	V;IMP;NEG;2;PL
+tehta	tehteiž	V;PRS;COND;POS;3;PL
+tehta	em tehteiž	V;PRS;COND;NEG;1;PL
+tehta	ed tehteiž	V;PRS;COND;NEG;2;PL
+tehta	ii tehteiž	V;PRS;COND;NEG;3;PL
+tehta	tehniž	V;PST;IPFV;COND;POS;3;SG
+tehta	tehniži	V;PST;IPFV;COND;POS;3;SG
+tehta	tehnižim	V;PST;IPFV;COND;POS;1;PL
+tehta	tehteniž	V;PST;IPFV;COND;POS;3;PL
+tehta	en tehniž	V;PST;IPFV;COND;NEG;1;SG
+tehta	en tehniži	V;PST;IPFV;COND;NEG;1;SG
+tehta	ed tehniž	V;PST;IPFV;COND;NEG;2;SG
+tehta	ed tehniž	V;PST;IPFV;COND;NEG;2;PL
+tehta	ed tehniži	V;PST;IPFV;COND;NEG;2;SG
+tehta	ed tehniži	V;PST;IPFV;COND;NEG;2;PL
+tehta	ii tehniž	V;PST;IPFV;COND;NEG;3;SG
+tehta	ii tehniži	V;PST;IPFV;COND;NEG;3;SG
+tehta	em tehniž	V;PST;IPFV;COND;NEG;1;PL
+tehta	em tehniži	V;PST;IPFV;COND;NEG;1;PL
+tehta	em tehnuiž	V;PST;IPFV;COND;NEG;1;PL
+tehta	ii tehteniž	V;PST;IPFV;COND;NEG;3;PL
+toine	toižidenke	ADJ;COM;PL
+toine	toižespäi	ADJ;IN+ABL;SG
+toine	toižišpäi	ADJ;IN+ABL;PL
+toine	toižile	ADJ;AT+ALL;PL
+toine	toižidennoks	ADJ;APPRX;PL
+toine	toižihe	ADJ;IN+ALL;PL
+toine	toižid	ADJ;PRT;PL
+toine	toižele	ADJ;AT+ALL;SG
+toine	toižiden	ADJ;GEN;PL
+toine	toižel	ADJ;AT+ESS;SG
+toine	toižed	ADJ;NOM;PL
+toine	toižed	ADJ;ACC;PL
+toine	toižiš	ADJ;IN+ESS;PL
+toine	toižhe	ADJ;IN+ALL;SG
+toine	toine	ADJ;NOM;SG
+toine	toine	ADJ;ACC;SG
+toine	toižes	ADJ;IN+ESS;SG
+toine	toižen	ADJ;GEN;SG
+toine	toižen	ADJ;ACC;SG
+toine	toižen	ADJ;FRML;SG
+toine	tošt’	ADJ;PRT;SG
+toine	toižin	ADJ;FRML;PL
+toine	toižeks	ADJ;TRANS;SG
+toine	toiželpäi	ADJ;AT+ABL;SG
+toine	toižeta	ADJ;PRIV ;SG
+toine	toiženke	ADJ;COM;SG
+toine	toižennoks	ADJ;APPRX;SG
+toine	toižennopäi	ADJ;ON/AT+ABL;SG
+toine	toižhesai	ADJ;TERM;SG
+toine	toižhepäi	ADJ;PRP;SG
+toine	toižikš	ADJ;TRANS;PL
+toine	toižil	ADJ;AT+ESS;PL
+toine	toižilpäi	ADJ;AT+ABL;PL
+toine	toižita	ADJ;PRIV ;PL
+toine	toižidme	ADJ;PROL;PL
+toine	toižidennopäi	ADJ;ON/AT+ABL;PL
+toine	toižihesai	ADJ;TERM;PL
+toine	toižihepäi	ADJ;PRP;PL
+toine	toižehe	ADJ;IN+ALL;SG
+toine	toižehesai	ADJ;TERM;SG
+toine	toižehepäi	ADJ;PRP;SG
+toine	tošt’me	ADJ;PROL;SG
 uk	ukk	N;NOM;SG
+valita	valičen	V;PRS;IND;POS;1;SG
+valita	valitihe	V;PST;IPFV;IND;POS;3;PL
+valita	valitihe	V;PASS;PST;IPFV
+valita	valitud	V.PTCP;PST;PASS
+valita	valitud	V.PTCP;PST;ACT;PL
+valita	valičenu	V.PTCP;PST;ACT
+valita	valičed	V;PRS;IND;POS;2;SG
+valita	valičed	V;PRS;IND;POS;2;PL
+valita	valičem	V;PRS;IND;POS;1;PL
+valita	valiče	V;IMP;POS;2;SG
+valita	valičin	V;PST;IPFV;IND;POS;1;SG
+valita	valičid	V;PST;IPFV;IND;POS;2;SG
+valita	valičid	V;PST;IPFV;IND;POS;2;PL
+valita	valiči	V;PST;IPFV;IND;POS;3;SG
+valita	valiči	V.PTCP;PRS;ACT
+valita	valičim	V;PST;IPFV;IND;POS;1;PL
+valita	valikam	V;IMP;POS;1;PL
+valita	valikat	V;IMP;POS;2;PL
+valita	valičižin	V;PRS;COND;POS;1;SG
+valita	valičižid	V;PRS;COND;POS;2;SG
+valita	valičižid	V;PRS;COND;POS;2;PL
+valita	valičiži	V;PRS;COND;POS;3;SG
+valita	valičižim	V;PRS;COND;POS;1;PL
+valita	valinuižin	V;PST;IPFV;COND;POS;1;SG
+valita	valinuižid	V;PST;IPFV;COND;POS;2;SG
+valita	valinuižid	V;PST;IPFV;COND;POS;2;PL
+valita	valinuiži	V;PST;IPFV;COND;POS;3;SG
+valita	valinuižim	V;PST;IPFV;COND;POS;1;PL
+valita	valita	V;NFIN
+valita	en valiče	V;PRS;IND;NEG;1;SG
+valita	ed valiče	V;PRS;IND;NEG;2;SG
+valita	valikaha	V;IMP;POS;3;SG
+valita	valikaha	V;IMP;POS;3;PL
+valita	ala valiče	V;IMP;NEG;2;SG
+valita	en valičiži	V;PRS;COND;NEG;1;SG
+valita	ed valičiži	V;PRS;COND;NEG;2;SG
+valita	en valinuiži	V;PST;IPFV;COND;NEG;1;SG
+valita	ed valinuiži	V;PST;IPFV;COND;NEG;2;SG
+valita	ed valinuiži	V;PST;IPFV;COND;NEG;2;PL
+valita	valitaze	V;PRS;IND;POS;3;PL
+valita	valitaze	V;PASS;PRS
+valita	ii valiče	V;PRS;IND;NEG;3;SG
+valita	em valikii	V;PRS;IND;NEG;1;PL
+valita	ed valikii	V;PRS;IND;NEG;2;PL
+valita	ii valikii	V;PRS;IND;NEG;3;PL
+valita	en valinu	V;PST;IPFV;IND;NEG;1;SG
+valita	ed valinu	V;PST;IPFV;IND;NEG;2;SG
+valita	ii valinu	V;PST;IPFV;IND;NEG;3;SG
+valita	em valitud	V;PST;IPFV;IND;NEG;1;PL
+valita	ed valitud	V;PST;IPFV;IND;NEG;2;PL
+valita	ii valitud	V;PST;IPFV;IND;NEG;3;PL
+valita	olen valičenu	V;PRS;PRF;IND;POS;1;SG
+valita	oled valičenu	V;PRS;PRF;IND;POS;2;SG
+valita	om valičenu	V;PRS;PRF;IND;POS;3;SG
+valita	olem valitud	V;PRS;PRF;IND;POS;1;PL
+valita	oled valitud	V;PRS;PRF;IND;POS;2;PL
+valita	oma valitud	V;PRS;PRF;IND;POS;3;PL
+valita	en ole valičenu	V;PRS;PRF;IND;NEG;1;SG
+valita	ed ole valičenu	V;PRS;PRF;IND;NEG;2;SG
+valita	iilä valičenu	V;PRS;PRF;IND;NEG;3;SG
+valita	em olgii valitud	V;PRS;PRF;IND;NEG;1;PL
+valita	ed olgii valitud	V;PRS;PRF;IND;NEG;2;PL
+valita	ii olgii valitud	V;PRS;PRF;IND;NEG;3;PL
+valita	olin valičenu	V;PST;PRF;IND;POS;1;SG
+valita	olid valičenu	V;PST;PRF;IND;POS;2;SG
+valita	oli valičenu	V;PST;PRF;IND;POS;3;SG
+valita	olim valitud	V;PST;PRF;IND;POS;1;PL
+valita	olid valitud	V;PST;PRF;IND;POS;2;PL
+valita	ol’d’he valitud	V;PST;PRF;IND;POS;3;PL
+valita	en olnu valičenu	V;PST;PRF;IND;NEG;1;SG
+valita	ed olnu valičenu	V;PST;PRF;IND;NEG;2;SG
+valita	ii olnu valičenu	V;PST;PRF;IND;NEG;3;SG
+valita	em oldud valitud	V;PST;PRF;IND;NEG;1;PL
+valita	ed oldud valitud	V;PST;PRF;IND;NEG;2;PL
+valita	ii oldud valitud	V;PST;PRF;IND;NEG;3;PL
+valita	algii valikii	V;IMP;NEG;3;SG
+valita	algii valikii	V;IMP;NEG;3;PL
+valita	algam valikii	V;IMP;NEG;1;PL
+valita	algat valikii	V;IMP;NEG;2;PL
+valita	valičiž	V;PRS;COND;POS;3;SG
+valita	valiteiž	V;PRS;COND;POS;3;PL
+valita	en valičiž	V;PRS;COND;NEG;1;SG
+valita	ed valičiž	V;PRS;COND;NEG;2;SG
+valita	ii valičiž	V;PRS;COND;NEG;3;SG
+valita	ii valičiži	V;PRS;COND;NEG;3;SG
+valita	em valiteiž	V;PRS;COND;NEG;1;PL
+valita	ed valiteiž	V;PRS;COND;NEG;2;PL
+valita	ii valiteiž	V;PRS;COND;NEG;3;PL
+valita	valinižin	V;PST;IPFV;COND;POS;1;SG
+valita	valinižid	V;PST;IPFV;COND;POS;2;SG
+valita	valinižid	V;PST;IPFV;COND;POS;2;PL
+valita	valiniži	V;PST;IPFV;COND;POS;3;SG
+valita	valinižim	V;PST;IPFV;COND;POS;1;PL
+valita	valiteniž	V;PST;IPFV;COND;POS;3;PL
+valita	om valitud	V;PASS;PRS;PRF
+valita	oli valitud	V;PASS;PST;PRF
+valita	valib	V;PRS;IND;POS;3;SG
+valita	em valinuiži	V;PST;IPFV;COND;NEG;1;PL
+valita	valiniž	V;PST;IPFV;COND;POS;3;SG
+valita	valinuiž	V;PST;IPFV;COND;POS;3;SG
+valita	en valiniž	V;PST;IPFV;COND;NEG;1;SG
+valita	en valiniži	V;PST;IPFV;COND;NEG;1;SG
+valita	en valinuiž	V;PST;IPFV;COND;NEG;1;SG
+valita	ed valiniž	V;PST;IPFV;COND;NEG;2;SG
+valita	ed valiniž	V;PST;IPFV;COND;NEG;2;PL
+valita	ed valiniži	V;PST;IPFV;COND;NEG;2;SG
+valita	ed valiniži	V;PST;IPFV;COND;NEG;2;PL
+valita	ed valinuiž	V;PST;IPFV;COND;NEG;2;SG
+valita	ed valinuiž	V;PST;IPFV;COND;NEG;2;PL
+valita	ii valiniž	V;PST;IPFV;COND;NEG;3;SG
+valita	ii valiniži	V;PST;IPFV;COND;NEG;3;SG
+valita	ii valinuiž	V;PST;IPFV;COND;NEG;3;SG
+valita	ii valinuiži	V;PST;IPFV;COND;NEG;3;SG
+valita	em valiniž	V;PST;IPFV;COND;NEG;1;PL
+valita	em valiniži	V;PST;IPFV;COND;NEG;1;PL
+valita	em valinuiž	V;PST;IPFV;COND;NEG;1;PL
+valita	ii valiteniž	V;PST;IPFV;COND;NEG;3;PL
 veps	vepsad	N;NOM;PL
 veps	vepsan	N;GEN;SG
+voin	voin	N;NOM;SG
+voin	voin	N;ACC;SG
+voin	voinan	N;GEN;SG
+voin	voinan	N;ACC;SG
+voin	voinan	N;FRML;SG
+voin	voinad	N;NOM;PL
+voin	voinad	N;PRT;SG
+voin	voinad	N;ACC;PL
+voin	voinas	N;IN+ESS;SG
+voin	voinale	N;AT+ALL;SG
+voin	voinaks	N;TRANS;SG
+voin	voinaspäi	N;IN+ABL;SG
+voin	voinaha	N;IN+ALL;SG
+voin	voinal	N;AT+ESS;SG
+voin	voinalpäi	N;AT+ABL;SG
+voin	voinata	N;PRIV ;SG
+voin	voinanke	N;COM;SG
+voin	voinadme	N;PROL;SG
+voin	voinannoks	N;APPRX;SG
+voin	voinannopäi	N;ON/AT+ABL;SG
+voin	voinahasai	N;TERM;SG
+voin	voinahapäi	N;PRP;SG
+voin	voiniden	N;GEN;PL
+voin	voinid	N;PRT;PL
+voin	voinin	N;FRML;PL
+voin	voinikš	N;TRANS;PL
+voin	voiniš	N;IN+ESS;PL
+voin	voinišpäi	N;IN+ABL;PL
+voin	voinihe	N;IN+ALL;PL
+voin	voinil	N;AT+ESS;PL
+voin	voinilpäi	N;AT+ABL;PL
+voin	voinile	N;AT+ALL;PL
+voin	voinita	N;PRIV ;PL
+voin	voinidenke	N;COM;PL
+voin	voinidme	N;PROL;PL
+voin	voinidennoks	N;APPRX;PL
+voin	voinidennopäi	N;ON/AT+ABL;PL
+voin	voinihesai	N;TERM;PL
+voin	voinihepäi	N;PRP;PL
