@@ -9,7 +9,7 @@ Source: [VepKar](http://dictorpus.krc.karelia.ru/en)
 
 > @inproceedings{zaytseva2017open,
 >  title={Open corpus of Veps and Karelian languages (VepKar): preliminary data collection and dictionaries},
->  author={Zaytseva, Nina and Krizhanovsky, Andrew and Krizhanovsky, Natalia and Pellinen, Natalia and Rodionova, Aleksndra},
+>  author={Zaytseva, Nina and Krizhanovsky, Andrew and Krizhanovsky, Natalia and Pellinen, Natalia and Rodionova, Aleksandra},
 >  booktitle={Corpus Linguistics},
 >  volume={2017},
 >  pages={172--177},
