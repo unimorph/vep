@@ -8,19 +8,15 @@ Source: [VepKar](http://dictorpus.krc.karelia.ru/en)
 
 > @article{Boyko2021VepKar,
 >   title={The linguistic corpus VepKar is a language refuge for the Baltic-Finnish languages of Karelia},
->   author={Tatyana, Boyko and Zaitseva, Nina and Krizhanovskaya, Natalya and Krizhanovsky, Andrew and Novak, Irina and Pellinen, Natalia and Rodionova, Alexandra and Trubina, Elizaveta},
->   journal={Transactions of the Karelian Research Centre of the Russian Academy of Sciences},
+>   author={Tatyana, Boyko and Zaitseva, Nina and Krizhanovskaya, Natalya and Krizhanovsky, Andrew and Novak, Irina and Pellinen, Natalia and Rodionova, Alexandra},
+>   journal={KnE Social Sciences},
 >   number={7},
->   pages={100--115},
->   year={2021},
->   publisher={Karelian Research Centre of RAS},
->   doi = "10.17076/them1415"
-}
+>   pages={29--40},
+>   year={2022},
+>   doi = "10.18502/kss.v7i3.10419"
+>}
 
-T.P. Boyko, N.G. Zaitseva, N.B. Krizhanovskaya, A.A. Krizhanovsky, I.P. Novak, N.A. Pellinen, A.P. Rodionova, E.D. Trubina. 
-The linguistic corpus VepKar is a language refuge for the Baltic-Finnish languages of Karelia //
-Transactions of Karelian Research Centre of Russian Academy of Science. No 7. Multidisciplinary scientific research at KarRC RAS. 2021. C. 100-115. 
-DOI: 10.17076/them1415 URL: http://journals.krc.karelia.ru/index.php/thematic/article/view/1415
+T. Boyko, N. Zaitseva, N. Krizhanovskaya, A. Krizhanovsky, I. Novak, N. Pellinen, and A. Rodionova. The Open corpus of the Veps and Karelian languages: overview and applications // KnE Social Sciences. 7 (3). 2022. P. 29-40 DOI: https://doi.org/10.18502/kss.v7i3.10419 URL: https://arxiv.org/abs/2206.03870 
 
 ## Shared Tasks
 
