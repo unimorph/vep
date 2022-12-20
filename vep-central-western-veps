@@ -58,6 +58,8 @@ Kurb	Kurbahapäi	PROPN;PRP;SG
 Kurb	Kurbau	PROPN;AT+ESS;SG
 Kurb	Kurbaupäi	PROPN;AT+ABL;SG
 Kurb	Kurbahassai	PROPN;TERM;SG
+Oks’a	Oks’a	PROPN;NOM;SG
+Oks’a	Oks’a	PROPN;ACC;SG
 abutada	abutiba	V;PST;IPFV;IND;POS;3;PL
 abutada	abutab	V;PRS;IND;POS;3;SG
 abutada	abuti	V;PST;IPFV;IND;POS;3;SG
@@ -1540,6 +1542,7 @@ astta	astnuded	V.PTCP;PST;ACT;PL
 astta	asttihe	V;PASS;PST;IPFV
 astta	om asttud	V;PASS;PRS;PRF
 astta	oli asttud	V;PASS;PST;PRF
+astta	astas	V;PASS;PRS
 ast’k’ad	ast’k’ad	N;NOM;SG
 ast’k’ad	ast’k’ad	N;ACC;SG
 avaita	avaitud	V.PTCP;PST;PASS
@@ -1741,6 +1744,8 @@ avaita	eba avainuiži	V;PST;IPFV;COND;NEG;3;PL
 avaita	avaiž’	V;PST;IPFV;IND;POS;3;SG
 azrein	azrein	N;NOM;SG
 azrein	azrein	N;ACC;SG
+bardeine	bardeine	N;NOM;SG
+bardeine	bardeine	N;ACC;SG
 bedni	bedni	ADJ;NOM;SG
 bedni	bedni	ADJ;ACC;SG
 birb	birbin	N;GEN;SG
@@ -1766,6 +1771,7 @@ birb	birbiupäi	N;AT+ABL;SG
 birb	birbihessai	N;TERM;SG
 birb	birbhessai	N;TERM;SG
 birb	birbhepäi	N;PRP;SG
+blaslovida	blaslovoiči	V;PST;IPFV;IND;POS;3;SG
 bok	bokha	N;IN+ALL;SG
 bok	bokale	N;AT+ALL;SG
 bok	bokan	N;GEN;SG
@@ -1810,10 +1816,17 @@ bok	bokid’me	N;PROL;PL
 bok	bokihessai	N;TERM;PL
 bursak	bursak	N;NOM;SG
 bursak	bursak	N;ACC;SG
+derevn’	derenaspei	N;IN+ABL;SG
 deroun’	deroun’	N;NOM;SG
 deroun’	deroun’	N;ACC;SG
 deruun’	deruun’	N;NOM;SG
 deruun’	deruun’	N;ACC;SG
+deröun	deröun	N;NOM;SG
+deröun	deröun	N;ACC;SG
+deröun	deröunähä	N;IN+ALL;SG
+derüuneine	derüuneine	N;NOM;SG
+derüuneine	derüuneine	N;ACC;SG
+derüuneine	derüuneižes	N;IN+ESS;SG
 dumaida	dumaid	V;PRS;IND;POS;2;SG
 dumaida	dumaiba	V;PRS;IND;POS;3;PL
 dumaida	dumai	V;PST;IPFV;IND;POS;3;SG
@@ -2107,6 +2120,7 @@ ehtkoine	ehtkoižehessai	N;TERM;SG
 ehtkoine	ehtkoižil’päi	N;AT+ABL;PL
 ehtkoine	ehtkoižideke	N;COM;PL
 ehtkoine	ehtkoižihessai	N;TERM;PL
+ehtkoine	ehtkoičuu	N;AT+ESS;SG
 eilhad	eilhad	N;NOM;SG
 eilhad	eilhad	N;ACC;SG
 eir	eir	N;NOM;SG
@@ -2314,6 +2328,7 @@ eläda	etei elänuiži	V;PST;IPFV;COND;NEG;2;PL
 eläda	eba elänuiž	V;PST;IPFV;COND;NEG;3;PL
 eläda	eba elänuiži	V;PST;IPFV;COND;NEG;3;PL
 eläda	el’	V;PST;IPFV;IND;POS;3;SG
+eläškata	eläškanz’	V;PST;IPFV;IND;POS;3;SG
 emälambaz	emälambaz	N;NOM;SG
 emälambaz	emälambaz	N;ACC;SG
 ezmarg’	ezmarg’	N;NOM;SG
@@ -2474,6 +2489,8 @@ garbol	garbloil’päi	N;AT+ABL;PL
 garbol	garbloideke	N;COM;PL
 garbol	garbloid’me	N;PROL;PL
 garbol	garbloihessai	N;TERM;PL
+gluhi	gluhi	ADJ;NOM;SG
+gluhi	gluhi	ADJ;ACC;SG
 gor’uida	gor’uimei	V;PRS;IND;POS;1;PL
 gor’uida	gor’uimei	V;PST;IPFV;IND;POS;1;PL
 gor’uida	gor’uin	V;PRS;IND;POS;1;SG
@@ -4474,6 +4491,8 @@ išttas	etai ištkoiš	V;REFL;PRS;IND;NEG;2;PL
 išttas	etei ištkoiš	V;REFL;PRS;IND;NEG;2;PL
 išttas	eba ištkoiš	V;REFL;PRS;IND;NEG;3;PL
 išttas	ei ištkoiš	V;REFL;PRS;IND;NEG;3;PL
+jogirand	jogirand	N;NOM;SG
+jogirand	jogirand	N;ACC;SG
 jokseta	joksenzimai	V;PST;IPFV;IND;POS;1;PL
 jokseta	joksenzimei	V;PST;IPFV;IND;POS;1;PL
 jokseta	joksendab	V;PRS;IND;POS;3;SG
@@ -5604,6 +5623,39 @@ kargaita	etei kargainuiži	V;PST;IPFV;COND;NEG;2;PL
 kargaita	eba kargainuiž	V;PST;IPFV;COND;NEG;3;PL
 kargaita	eba kargainuiži	V;PST;IPFV;COND;NEG;3;PL
 kargaita	kargai–ž’	V;PST;IPFV;IND;POS;3;SG
+kargeiškata	em kargeiškakoi	V;PRS;IND;NEG;1;PL
+kargeiškata	et kargeiškakoi	V;PRS;IND;NEG;2;PL
+kargeiškata	ei kargeiškakoi	V;PRS;IND;NEG;3;PL
+kargeiškata	em kargeiškanukoi	V;PST;IPFV;IND;NEG;1;PL
+kargeiškata	et kargeiškanukoi	V;PST;IPFV;IND;NEG;2;PL
+kargeiškata	ei kargeiškanukoi	V;PST;IPFV;IND;NEG;3;PL
+kargeiškata	kargeiškakha	V;IMP;POS;3;SG
+kargeiškata	kargeiškakha	V;IMP;POS;3;PL
+kargeiškata	kargeiškakam	V;IMP;POS;1;PL
+kargeiškata	kargeiškakat	V;IMP;POS;2;PL
+kargeiškata	algha kargeiškakoi	V;IMP;NEG;3;SG
+kargeiškata	algha kargeiškakoi	V;IMP;NEG;3;PL
+kargeiškata	algam kargeiškakoi	V;IMP;NEG;1;PL
+kargeiškata	algat kargeiškakoi	V;IMP;NEG;2;PL
+kargeiškata	kargeiškanuižin	V;PST;IPFV;COND;POS;1;SG
+kargeiškata	kargeiškanuižid	V;PST;IPFV;COND;POS;2;SG
+kargeiškata	kargeiškanuiži	V;PST;IPFV;COND;POS;3;SG
+kargeiškata	kargeiškanuižim	V;PST;IPFV;COND;POS;1;PL
+kargeiškata	kargeiškanuižit	V;PST;IPFV;COND;POS;2;PL
+kargeiškata	kargeiškanuižiba	V;PST;IPFV;COND;POS;3;PL
+kargeiškata	en kargeiškanuiži	V;PST;IPFV;COND;NEG;1;SG
+kargeiškata	ed kargeiškanuiži	V;PST;IPFV;COND;NEG;2;SG
+kargeiškata	ei kargeiškanuiži	V;PST;IPFV;COND;NEG;3;SG
+kargeiškata	ei kargeiškanuiži	V;PST;IPFV;COND;NEG;3;PL
+kargeiškata	em kargeiškanuiži	V;PST;IPFV;COND;NEG;1;PL
+kargeiškata	et kargeiškanuiži	V;PST;IPFV;COND;NEG;2;PL
+kargeiškata	kargeiškata	V;NFIN
+kargeiškata	kargeiškatud	V.PTCP;PST;PASS
+kargeiškata	kargeiškatas	V;PASS;PRS
+kargeiškata	kargeiškatihe	V;PASS;PST;IPFV
+kargeiškata	om kargeiškatud	V;PASS;PRS;PRF
+kargeiškata	oli kargeiškatud	V;PASS;PST;PRF
+kargeiškata	kargeidaškanz’	V;PST;IPFV;IND;POS;3;SG
 kar’	kar’	N;NOM;SG
 kar’	kar’	N;ACC;SG
 kat’uu	kat’uu	N;NOM;SG
@@ -6867,6 +6919,7 @@ kiruhttä	kiruhttas	V;PASS;PRS
 kiruhttä	kiruhttihe	V;PASS;PST;IPFV
 kiruhttä	om kiruhttud	V;PASS;PRS;PRF
 kiruhttä	oli kiruhttud	V;PASS;PST;PRF
+kivi	kivideke	N;COM;PL
 kobaita	kobaidan	V;PRS;IND;POS;1;SG
 kobaita	kobaidad	V;PRS;IND;POS;2;SG
 kobaita	kobaidab	V;PRS;IND;POS;3;SG
@@ -7739,6 +7792,7 @@ koumo	koumo	NUM;NOM;SG
 koumo	koumo	NUM;ACC;SG
 kozönkad	kozönkad	N;NOM;SG
 kozönkad	kozönkad	N;ACC;SG
+kožal’	kožlideke	N;COM;SG
 kožilk	kožilk	N;NOM;SG
 kožilk	kožilk	N;ACC;SG
 kožilkad	kožilkad	N;NOM;SG
@@ -10752,6 +10806,7 @@ lähtta	laske lähtba	V;IMP;POS;3;PL
 lähtta	okha lähtba	V;IMP;POS;3;PL
 lämmoi	lämmoi	N;NOM;SG
 lämmoi	lämmoi	N;ACC;SG
+lämmoi	Lämmöin	N;ACC;SG
 lükeita	lükeitas	V;PASS;PRS
 lükeita	lükeikam	V;IMP;POS;1;PL
 lükeita	lükeikat	V;IMP;POS;2;PL
@@ -11314,9 +11369,15 @@ mašt’a	mašaha	V;IMP;POS;3;PL
 mašt’a	okha mašb	V;IMP;POS;3;SG
 mašt’a	laske mašba	V;IMP;POS;3;PL
 mašt’a	okha mašba	V;IMP;POS;3;PL
+meca-ak	meca-ak	N;NOM;SG
+meca-ak	meca-ak	N;ACC;SG
 mecjärv	mecjärv	N;NOM;SG
 mecjärv	mecjärv	N;ACC;SG
+mezamez’	mezamez’	N;NOM;SG
+mezamez’	mezamez’	N;ACC;SG
 mif	mifoiden	N;GEN;PL
+mii	miile	PRO;AT+ALL;SG
+mii	miile	PRO;AT+ALL;PL
 miidekelhiižed	miidekelhiižed	N;NOM;SG
 miidekelhiižed	miidekelhiižed	N;ACC;SG
 minä	minunnost	PRO;APPRX;SG
@@ -12310,6 +12371,7 @@ olda	eba olnuiži	V;PST;IPFV;COND;NEG;3;PL
 olda	oldihe	V;PASS;PST;IPFV
 olda	om oldud	V;PASS;PRS;PRF
 olda	oli oldud	V;PASS;PST;PRF
+olda	olʼ	V;PST;IPFV;IND;POS;3;SG
 ombuuta	algha	V;IMP;NEG;3;SG
 ombuuta	uugha	V;IMP;NEG;3;SG
 ombuuta	laske ombuub	V;IMP;POS;3;SG
@@ -14652,6 +14714,7 @@ paštta	eba paštnuiž	V;PST;IPFV;COND;NEG;3;PL
 paštta	eba paštnuiži	V;PST;IPFV;COND;NEG;3;PL
 pei	pei	N;NOM;SG
 pei	pei	N;ACC;SG
+pei	Peijan	N;ACC;SG
 peid	peid	N;NOM;SG
 peid	peid	N;ACC;SG
 peilaskmanpol’	peilaskmanpol’	N;NOM;SG
@@ -16416,6 +16479,7 @@ pühkt’a	pühkt’as	V;PASS;PRS
 pühkt’a	pühkt’ihe	V;PASS;PST;IPFV
 pühkt’a	om pühkt’ud	V;PASS;PRS;PRF
 pühkt’a	oli pühkt’ud	V;PASS;PST;PRF
+pühäpei	pühäpejan	N;FRML;SG
 rad	radoile	N;AT+ALL;PL
 rad	radoiš	N;IN+ESS;PL
 rad	radou	N;AT+ESS;SG
@@ -16896,6 +16960,7 @@ rata	etei ranuiž	V;PST;IPFV;COND;NEG;2;PL
 rata	etei ranuiži	V;PST;IPFV;COND;NEG;2;PL
 rata	eba ranuiž	V;PST;IPFV;COND;NEG;3;PL
 rata	eba ranuiži	V;PST;IPFV;COND;NEG;3;PL
+rata	radli	V;PST;IPFV;IND;POS;3;SG
 rebitada	rebitab	V;PRS;IND;POS;3;SG
 rebitada	rebiti	V;PST;IPFV;IND;POS;3;SG
 rebitada	rebitamei	V;PRS;IND;POS;1;PL
@@ -17099,6 +17164,8 @@ rebitada	eba rebitanuiži	V;PST;IPFV;COND;NEG;3;PL
 rebitada	rebit’	V;PST;IPFV;IND;POS;3;SG
 reiž	reiž	N;NOM;SG
 reiž	reiž	N;ACC;SG
+riig	riigus	N;IN+ESS;SG
+riig	riighu	N;IN+ALL;SG
 riptä	riptas	V;PASS;PRS
 riptä	ripkam	V;IMP;POS;1;PL
 riptä	ripkat	V;IMP;POS;2;PL
@@ -17767,6 +17834,9 @@ sada	saitai	V;PST;IPFV;IND;POS;2;PL
 sada	saitei	V;PST;IPFV;IND;POS;2;PL
 samuu	samuu	N;NOM;SG
 samuu	samuu	N;ACC;SG
+sarneine	sarneine	N;NOM;SG
+sarneine	sarneine	N;ACC;SG
+sarneine	Sarneine	N;NOM;SG
 seböta	laske seböb	V;IMP;POS;3;SG
 seböta	okha seböb	V;IMP;POS;3;SG
 seböta	sebökaha	V;IMP;POS;3;SG
@@ -18605,10 +18675,12 @@ sobdas	emei sobgoiš	V;REFL;PRS;IND;NEG;1;PL
 sobdas	etai sobgoiš	V;REFL;PRS;IND;NEG;2;PL
 sobdas	etei sobgoiš	V;REFL;PRS;IND;NEG;2;PL
 sobdas	eba sobgoiš	V;REFL;PRS;IND;NEG;3;PL
+soberidas	soberihez	V;REFL;PST;IPFV;IND;POS;3;PL
 solhiin	solhiin	N;NOM;SG
 solhiin	solhiin	N;ACC;SG
 sonzar	sonzar	N;NOM;SG
 sonzar	sonzar	N;ACC;SG
+soubata	soupsi	V;PST;IPFV;IND;POS;3;SG
 soudat	soudatas	N;IN+ESS;SG
 soudat	soudatan	N;GEN;SG
 soudat	soudatan	N;ACC;SG
@@ -19541,6 +19613,7 @@ sülkta	sülkkaha	V;IMP;POS;3;SG
 sülkta	sülkkaha	V;IMP;POS;3;PL
 sülkta	laske sülkba	V;IMP;POS;3;PL
 sülkta	okha sülkba	V;IMP;POS;3;PL
+süud	süudadme	N;PROL;SG
 tactä	tackat	V;IMP;POS;2;PL
 tactä	tactihe	V;PASS;PST;IPFV
 tactä	tactud	V.PTCP;PST;PASS
@@ -20249,6 +20322,7 @@ teigin	teigin	N;NOM;SG
 teigin	teigin	N;ACC;SG
 teigneine	teigneine	N;NOM;SG
 teigneine	teigneine	N;ACC;SG
+tein	teinan	N;ACC;SG
 tervohtada	algha	V;IMP;NEG;3;SG
 tervohtada	uugha	V;IMP;NEG;3;SG
 tervohtada	laske tervohtab	V;IMP;POS;3;SG
@@ -20307,6 +20381,7 @@ tervohtada	oli tervohtadud	V;PASS;PST;PRF
 teta	ten	V;PRS;IND;POS;1;SG
 teta	tezin	V;PST;IPFV;IND;POS;1;SG
 teta	tezi	V;PST;IPFV;IND;POS;3;SG
+teta	teda	V;IMP;POS;2;SG
 teta	tezid	V;PST;IPFV;IND;POS;2;SG
 teta	teziba	V;PST;IPFV;IND;POS;3;PL
 teta	tenu	V.PTCP;PST;ACT
@@ -21457,6 +21532,7 @@ tönduda	etei töndunuiž	V;PST;IPFV;COND;NEG;2;PL
 tönduda	etei töndunuiži	V;PST;IPFV;COND;NEG;2;PL
 tönduda	eba töndunuiž	V;PST;IPFV;COND;NEG;3;PL
 tönduda	eba töndunuiži	V;PST;IPFV;COND;NEG;3;PL
+töuz’	töuden	N;ACC;SG
 tütar	tütrele	N;AT+ALL;SG
 tütar	tütar	N;NOM;SG
 tütar	tütar	N;ACC;SG
@@ -22590,8 +22666,10 @@ veikastuda	laske veikastuba	V;IMP;POS;3;PL
 veikastuda	okha veikastuba	V;IMP;POS;3;PL
 ven’anikad	ven’anikad	N;NOM;SG
 ven’anikad	ven’anikad	N;ACC;SG
+verai	verjan	N;ACC;SG
 ves’ou	ves’ou	N;NOM;SG
 ves’ou	ves’ou	N;ACC;SG
+vezi	vedespei	N;IN+ABL;SG
 vidoda	vidomei	V;PRS;IND;POS;1;PL
 vidoda	vidoda	V;NFIN
 vidoda	vidon	V;PRS;IND;POS;1;SG
@@ -24030,6 +24108,8 @@ zavot’t’a	oli zavot’t’ud	V;PASS;PST;PRF
 ägestada	eba ägestanuiž	V;PST;IPFV;COND;NEG;3;PL
 ägestada	eba ägestanuiži	V;PST;IPFV;COND;NEG;3;PL
 ägestada	ägest’	V;PST;IPFV;IND;POS;3;SG
+üksʼ	üksʼ	NUM;NOM;SG
+üksʼ	üksʼ	NUM;ACC;SG
 ümbärta	ümbärtas	V;PRS;IND;POS;3;PL
 ümbärta	ümbärtas	V;PASS;PRS
 ümbärta	ümbärdan	V;PRS;IND;POS;1;SG

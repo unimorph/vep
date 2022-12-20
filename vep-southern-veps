@@ -1,4 +1,7 @@
 # Veps: Southern Veps
+Sodjärv	Soddär	PROPN;NOM;SG
+Sodjärv	Soddär	PROPN;ACC;SG
+Sodjärv	Soddäres	PROPN;IN+ESS;SG
 abutada	abutab	V;PRS;IND;POS;3;SG
 abutada	abuti	V;PST;IPFV;IND;POS;3;SG
 abutada	abutagha	V;IMP;POS;3;SG
@@ -247,6 +250,8 @@ agj	agjoihesaa	N;TERM;PL
 agj	agjoihepää	N;PRP;PL
 ahaa	ahaa	N;NOM;SG
 ahaa	ahaa	N;ACC;SG
+ajada	ajomaa	V;PST;IPFV;IND;POS;1;PL
+ajada	Ajamaa	V;PRS;IND;POS;1;PL
 akke	akke	N;NOM;SG
 akke	akke	N;ACC;SG
 alastoo	alastoo	ADJ;NOM;SG
@@ -329,6 +334,68 @@ avaata	om avaatud	V;PASS;PRS;PRF
 avaata	oli avaatud	V;PASS;PST;PRF
 aškud	aškud	N;NOM;SG
 aškud	aškud	N;ACC;SG
+bas’ta	em bas’koi	V;PRS;IND;NEG;1;PL
+bas’ta	et bas’koi	V;PRS;IND;NEG;2;PL
+bas’ta	ei bas’koi	V;PRS;IND;NEG;3;PL
+bas’ta	em bas’nukoi	V;PST;IPFV;IND;NEG;1;PL
+bas’ta	et bas’nukoi	V;PST;IPFV;IND;NEG;2;PL
+bas’ta	ei bas’nukoi	V;PST;IPFV;IND;NEG;3;PL
+bas’ta	olen bas’nu	V;PRS;PRF;IND;POS;1;SG
+bas’ta	oled bas’nu	V;PRS;PRF;IND;POS;2;SG
+bas’ta	om bas’nu	V;PRS;PRF;IND;POS;3;SG
+bas’ta	olem bas’nuded	V;PRS;PRF;IND;POS;1;PL
+bas’ta	olet bas’nuded	V;PRS;PRF;IND;POS;2;PL
+bas’ta	oma bas’nuded	V;PRS;PRF;IND;POS;3;PL
+bas’ta	en ole bas’nu	V;PRS;PRF;IND;NEG;1;SG
+bas’ta	ed ole bas’nu	V;PRS;PRF;IND;NEG;2;SG
+bas’ta	ei ole bas’nu	V;PRS;PRF;IND;NEG;3;SG
+bas’ta	em olgoi bas’nuded	V;PRS;PRF;IND;NEG;1;PL
+bas’ta	et olgoi bas’nuded	V;PRS;PRF;IND;NEG;2;PL
+bas’ta	ei olgoi bas’nuded	V;PRS;PRF;IND;NEG;3;PL
+bas’ta	olin bas’nu	V;PST;PRF;IND;POS;1;SG
+bas’ta	olid bas’nu	V;PST;PRF;IND;POS;2;SG
+bas’ta	oli bas’nu	V;PST;PRF;IND;POS;3;SG
+bas’ta	olim bas’nuded	V;PST;PRF;IND;POS;1;PL
+bas’ta	olit bas’nuded	V;PST;PRF;IND;POS;2;PL
+bas’ta	oliba bas’nuded	V;PST;PRF;IND;POS;3;PL
+bas’ta	en olend bas’nu	V;PST;PRF;IND;NEG;1;SG
+bas’ta	en olnu bas’nu	V;PST;PRF;IND;NEG;1;SG
+bas’ta	ed olend bas’nu	V;PST;PRF;IND;NEG;2;SG
+bas’ta	ed olnu bas’nu	V;PST;PRF;IND;NEG;2;SG
+bas’ta	ei olend bas’nu	V;PST;PRF;IND;NEG;3;SG
+bas’ta	ei olnu bas’nu	V;PST;PRF;IND;NEG;3;SG
+bas’ta	em olnugoi bas’nuded	V;PST;PRF;IND;NEG;1;PL
+bas’ta	et olnugoi bas’nuded	V;PST;PRF;IND;NEG;2;PL
+bas’ta	ei olnugoi bas’nuded	V;PST;PRF;IND;NEG;3;PL
+bas’ta	bas’kaha	V;IMP;POS;3;SG
+bas’ta	bas’kaha	V;IMP;POS;3;PL
+bas’ta	bas’kam	V;IMP;POS;1;PL
+bas’ta	bas’kat	V;IMP;POS;2;PL
+bas’ta	algha bas’koi	V;IMP;NEG;3;SG
+bas’ta	algha bas’koi	V;IMP;NEG;3;PL
+bas’ta	algam bas’koi	V;IMP;NEG;1;PL
+bas’ta	algat bas’koi	V;IMP;NEG;2;PL
+bas’ta	bas’nuižin	V;PST;IPFV;COND;POS;1;SG
+bas’ta	bas’nuižid	V;PST;IPFV;COND;POS;2;SG
+bas’ta	bas’nuiži	V;PST;IPFV;COND;POS;3;SG
+bas’ta	bas’nuižim	V;PST;IPFV;COND;POS;1;PL
+bas’ta	bas’nuižit	V;PST;IPFV;COND;POS;2;PL
+bas’ta	bas’nuižiba	V;PST;IPFV;COND;POS;3;PL
+bas’ta	en bas’nuiži	V;PST;IPFV;COND;NEG;1;SG
+bas’ta	ed bas’nuiži	V;PST;IPFV;COND;NEG;2;SG
+bas’ta	ei bas’nuiži	V;PST;IPFV;COND;NEG;3;SG
+bas’ta	ei bas’nuiži	V;PST;IPFV;COND;NEG;3;PL
+bas’ta	em bas’nuiži	V;PST;IPFV;COND;NEG;1;PL
+bas’ta	et bas’nuiži	V;PST;IPFV;COND;NEG;2;PL
+bas’ta	bas’ta	V;NFIN
+bas’ta	bas’nu	V.PTCP;PST;ACT
+bas’ta	bas’nuded	V.PTCP;PST;ACT;PL
+bas’ta	bas’tud	V.PTCP;PST;PASS
+bas’ta	bas’tas	V;PASS;PRS
+bas’ta	bas’tihe	V;PASS;PST;IPFV
+bas’ta	om bas’tud	V;PASS;PRS;PRF
+bas’ta	oli bas’tud	V;PASS;PST;PRF
+bas’ta	basib	V;PRS;IND;POS;3;SG
 batišk	batišk	N;NOM;SG
 batišk	batišk	N;ACC;SG
 bednee	bednee	ADJ;NOM;SG
@@ -1386,6 +1453,9 @@ huuv	huuv	ADJ;NOM;SG
 huuv	huuv	ADJ;ACC;SG
 hämäšaag	hämäšaag	N;NOM;SG
 hämäšaag	hämäšaag	N;ACC;SG
+hän	Hänle	PRO;AT+ALL;SG
+hän	häntmu	PRO;COM;SG
+hän	hänennost	PRO;APPRX;SG
 härkim	härkim	N;NOM;SG
 härkim	härkim	N;ACC;SG
 hörhötada	hörhötagha	V;IMP;POS;3;SG
@@ -2918,6 +2988,7 @@ lučoota	om lučootud	V;PASS;PRS;PRF
 lučoota	oli lučootud	V;PASS;PST;PRF
 lähiine	lähiine	ADJ;NOM;SG
 lähiine	lähiine	ADJ;ACC;SG
+lähtta	lähemaa	V;PRS;IND;POS;1;PL
 lämoo	lämoo	N;NOM;SG
 lämoo	lämoo	N;ACC;SG
 lämoohut	lämoohut	N;NOM;SG
@@ -3013,6 +3084,7 @@ mal’	mal’	N;NOM;SG
 mal’	mal’	N;ACC;SG
 mačoh	mačoh	N;NOM;SG
 mačoh	mačoh	N;ACC;SG
+mašin	mašinau	N;AT+ESS;SG
 maštä	maškam	V;IMP;POS;1;PL
 maštä	maškat	V;IMP;POS;2;PL
 maštä	mašnuižiba	V;PST;IPFV;COND;POS;3;PL
@@ -3188,6 +3260,8 @@ mesketa	mesketihe	V;PASS;PST;IPFV
 mesketa	om mesketud	V;PASS;PRS;PRF
 mesketa	oli mesketud	V;PASS;PST;PRF
 mif	mifoiden	N;GEN;PL
+mii	mejaa	PRO;AT+ALL;PL
+mina	minaa	PRO;AT+ESS;SG
 mind’	mind’	N;NOM;SG
 mind’	mind’	N;ACC;SG
 mičče	mičče	PRO;NOM;SG
@@ -3661,6 +3735,7 @@ olda	ii olen	V;PST;IPFV;IND;NEG;3;SG
 olda	emaa olen	V;PST;IPFV;IND;NEG;1;PL
 olda	etaa olen	V;PST;IPFV;IND;NEG;2;PL
 olda	ebad olen	V;PST;IPFV;IND;NEG;3;PL
+olda	olimaa	V;PST;IPFV;IND;POS;1;PL
 olud	olud	N;NOM;SG
 olud	olud	N;ACC;SG
 ombooda	omboogha	V;IMP;POS;3;SG
@@ -4510,6 +4585,9 @@ poro	poro	N;NOM;SG
 poro	poro	N;ACC;SG
 por’maane	por’maane	N;NOM;SG
 por’maane	por’maane	N;ACC;SG
+prihaž	prihaž	N;NOM;SG
+prihaž	prihaž	N;ACC;SG
+prihaž	prihažuu	N;AT+ESS;SG
 prolub	prolub	N;NOM;SG
 prolub	prolub	N;ACC;SG
 prosttä	prostkaha	V;IMP;POS;3;SG
@@ -4584,6 +4662,7 @@ pulo	pulo	N;NOM;SG
 pulo	pulo	N;ACC;SG
 päinoozm	päinoozm	N;NOM;SG
 päinoozm	päinoozm	N;ACC;SG
+päiv	päävad	N;PRT;SG
 päivoo	päivoo	N;NOM;SG
 päivoo	päivoo	N;ACC;SG
 pärmdä	pärmgha	V;IMP;POS;3;SG
@@ -5724,6 +5803,7 @@ tepiine	tepiine	N;NOM;SG
 tepiine	tepiine	N;ACC;SG
 test’	test’	N;NOM;SG
 test’	test’	N;ACC;SG
+teta	tedi	V;PST;IPFV;IND;POS;3;SG
 tetiva	tetiva	N;NOM;SG
 tetiva	tetiva	N;ACC;SG
 tiništada	tiništagha	V;IMP;POS;3;SG
@@ -6126,6 +6206,9 @@ vaamištada	om vaamištadud	V;PASS;PRS;PRF
 vaamištada	oli vaamištadud	V;PASS;PST;PRF
 vaamiž	vaamiž	ADJ;NOM;SG
 vaamiž	vaamiž	ADJ;ACC;SG
+vacaane	vacaane	N;NOM;SG
+vacaane	vacaane	N;ACC;SG
+vacaane	vacaažen	N;ACC;SG
 vacamu	vacamu	ADJ;NOM;SG
 vacamu	vacamu	ADJ;ACC;SG
 vaikaštuda	vaikaštugam	V;IMP;POS;1;PL
